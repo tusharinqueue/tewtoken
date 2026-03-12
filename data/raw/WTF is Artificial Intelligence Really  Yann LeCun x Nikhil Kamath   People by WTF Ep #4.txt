@@ -1,0 +1,2380 @@
+I thought we could use today to figure
+out a what is AI how did we get here
+what likely
+next as an Indian 20-year-old who wants
+to build a business in AI a career in
+AI what do we do today today like right
+now yeah
+hi Yan good morning and you care thank
+you for doing this pleasure the very
+first thing we like to do is get to know
+you a bit more uh how you came to be
+what you are today uh could you tell us
+a little bit about where you were born
+where you grew up leading up to today so
+I I grew up near Paris uh in the
+suburbs um my dad was an engineer and I
+learned learned almost everything from
+him um and um um always was interested
+in in science and technology since I was
+a little kid and and always saw myself
+as uh perhaps becoming an engineer I had
+no idea how you became a scientist U but
+I became interested in this afterwards
+what's the difference between an
+engineer and a scientist well um it's
+very difficult to to Define and uh very
+fun you have to be a little bit of both
+M but but uh um scientists you try to
+understand the world um engineer you try
+to create new things and very often if
+you want to understand the world you
+need to create new things the progress
+of science very much is linked with
+progress in technology that allows
+to collect data you know the invention
+of the telescope allow the discovery of
+planets and the planets are um rotating
+around the Sun and things like this
+right the microscope will open the door
+to all kinds of things so um so
+technology enables science and for the
+problem that really has been my
+obsession for a long time is uh
+discovering the mysteries of uncovering
+the mysteries of
+intelligence um and as as an engineer I
+think the the only way to do this is to
+build a machine that is intelligent
+right so there's both an aspect of the
+scientific aspect of understanding
+intelligence what it is um at a
+theoretical level and more practical
+side of things and then U of course the
+consequences of building intelligent
+machines could be could have you know
+could be really important for
+Humanity and school in Paris studying
+what so I I studied electrical
+engineering um but as I progressed in my
+studies I became more and more
+interested in sort of more fundamental
+questions in mathematics physics and and
+AI um
+I I did not study computer science right
+of course there is always computers
+involved when you studied electrical
+engineering even in the 1980s and late
+70s actually when I started um but um
+but I got to do a few independent
+projects with mathematics professors on
+on the questions of AI and and and
+things like that and I really got hooked
+into research I was uh um you know my my
+uh my my favorite activity is to to
+build new things invent new things and
+then understand new things in a new way
+when somebody says Goda of AI the
+term how does it make you feel what do
+you think about it uh I mean I don't
+particularly like this term you know I I
+live in New Jersey Godfather in New
+Jersey means you are you belong to the
+mafia right I mean science is never a
+sort of
+individual uh Pursuit you you you make
+progress by by the Collision of ideas
+from multiple people and you you you
+make you do make hypothesis and then you
+try to show that your hypothesis is is
+correct by demonstrating that the idea
+you have the mental model of what should
+work um is correct by demonstrating that
+uh that it works um or doing some Theory
+and things like that and um it it's not
+an isolated uh activity so there's
+always a lot of people who have
+contributed to to progress but
+then because of the nature of how the
+world works we only remember just a few
+people um I think a lot of the credit
+should go to a lot more people it's just
+that we don't have a good you know
+memory for attributing credit to to a
+lot of people so how does it feel to be
+a teacher today on when you were at NYU
+are you the celebrity at NYU
+um let's say over the last uh several
+years uh students come up to me at the
+end of the class I want to take selfies
+yeah so so there's a little bit of that
+I I think
+um if you are in the same room with
+someone I think it's important to sort
+of uh make the session interactive
+because otherwise you can just watch a
+video so so that's why yeah that's what
+I try to do really sort of engage Eng
+with the students do you suspect being a
+hero in Academia in research is much
+like being a hero in sport or
+entrepreneurship or do you think it's
+harder okay there's something I'm I'm
+happy about the fact that there can be
+heroes you know from in science
+um arue there was newon and Einstein and
+all these people well Newton was not
+really kind of a public figure I I think
+um I mean was Cambridge but Einstein
+certainly was yeah um and to some extent
+you know other some other scientists
+also were were sort of minor
+celebrities um so I mean I think uh some
+of that comes
+from you know scientific production but
+frankly there's a lot of people who have
+made scientific contributions that are
+completely unknown um and which I find
+it a little sad but
+um I I think a lot of people who have
+become prominent in in in science and
+technology is not just because of the
+science they've they've produced but
+also because of their public stands and
+um out there you know what one one thing
+that perhaps differentiates me from
+other scientists who are a little
+quieter is that I'm very present on
+social networks and I give public talks
+and I have strong opinions about not
+just technical issues but also uh policy
+issues to some extent so I that that I
+think amplifies a little bit the yeah
+the popularity or unpopularity in
+certain circles I'm seen like a complete
+idiot I've watched a lot of your
+interviews over the last fortnite last
+month in
+fact if you were to state three problems
+with the world from Yan's lens what
+would they
+be
+um so as as a scientist you try to
+establish causal models of the world
+right so there are effects that we're
+seeing and then the question is what is
+it cause by and
+almost for almost every problem that we
+have the the uh the cause is really a
+lack of knowledge or or intelligence by
+humans we're making mistakes we're
+missing mistakes because we're not smart
+enough to figure out we have a problem
+because we're not smart enough to figure
+out Solutions we are smart enough to
+organize ourselves to find Solutions
+right so things like I mean climate
+change is a huge issue right um and you
+know there might there are you know
+political issues with that and um
+questions of
+organizing uh the world the governments
+Etc but also uh potentially
+technological solutions to to climate
+change and and I wish we
+were you know smarter so that we could
+find Solutions faster so are you saying
+humans don't know why we do what we do
+and that's the problem no I think the
+mistakes we're making is because um uh
+if we were if we were a little smarter
+if we had a better mental model of of
+Father World
+Works uh and that's a central question
+in AI as well I think we could we could
+solve our our problems better we would
+take decisions that are more rational um
+and what I the the the the big issue I
+see in the world today is is is people
+who
+um are not interested in finding the
+facts and not interested in educating
+themselves um or maybe they are but they
+don't have the means to do this they
+don't have access to information and
+knowledge so I think the best thing we
+can do and maybe that's why you know I
+became a professor is to uh make people
+smarter and to some extent that's the
+best reason also to work on AI because
+AI is going to amplify human
+intelligence I mean the the overall
+intelligence of humanity if you want so
+I I think that uh that's the key to
+solving a lot of the problems that we
+have so just to prease this conversation
+uh I'm an idiot when it comes to
+anything around AI or technology there
+isn't much that I know and I've tried to
+learn uh over the past over over the
+very recent past and uh I have a lot of
+curiosity for it but I don't know enough
+about it a lot of the people watching us
+today are wnab be entrepreneurs
+primarily based out of India a lot of us
+have
+heard conjecture around AI we have heard
+about the edge cases both on the
+positive side and the negative
+side I thought we could use today to
+figure out for all of us a what is AI
+how did we get here and what likely next
+if I were to break today down into three
+parts should we start with what is
+AI okay um that's a good question what
+is intelligence even um so in the
+history of AI I think the problem
+of what is AI feels a little bit like
+the the story of the blind man with the
+elephant right uh that there are very
+different aspects to intelligence and
+over the history of AI people have
+addressed one view of what intelligence
+is and and and basically ignored all the
+other all the other aspects so um one of
+the early aspects of uh of intelligence
+that people address with AI in the 1950s
+was you know intelligence is about
+reasoning um how do we reason so how do
+we reason
+logically um how do we search for
+solutions to a new problem and in the
+50s people figured out um when we have a
+problem let's say that's become a
+startup problem in U in AI it's or
+computer science now um you know I give
+you a bunch of cities and I ask you you
+have to go through every single City and
+what's the shortest path the the shorter
+circuit to go around the city that's
+called a traveling salesman problem um
+and they say like every reasoning can be
+formulated in terms of searching for a
+solution to a problem there's a space of
+possible solution there is something
+that tells you whether you found a good
+solution or not or or some number that
+tells you the length of the path and you
+just have to search for the shortest
+path right and and to some extent you
+could reduce every reasoning problem to
+a problem of of this type in mathematics
+we call this optimization okay so you
+have um a problem you can you can
+evaluate whether your problem is solved
+or not with a number that indicates you
+know it's low if your length of your
+path is small and it's high if it's
+longer and you search for a solution
+that minimizes that uh that say finding
+Solutions related to intelligence if you
+were to ask me what is intelligence I
+would be like dumbfounded in trying to
+Define it in a sentence right I mean so
+that comes back to the elephant analogy
+can you explain the elephant analogy
+well so you know the the blind the the
+blind man in the elephant right so you
+the first blind goes to the side of the
+elephant say that sounds like a looks
+like a wall and then one goes to a leg
+that looks like a tree um and another
+one you know touches the trunk that's a
+that's a pipe and nobody has a complete
+picture of what an elephant is right and
+you you see it from from the various
+angles so this aspect of intelligence as
+being a search for a solution to a
+particular problem
+is you know a small piece of the
+elephant it's it's one aspect of
+intelligence but it's not it's not the
+entire thing but in the 50s um one
+branch of of AI was basically only
+concerned by this um and and that Branch
+was essentially dominant until until the
+1990s um that that AI uh consist in
+searching for solution for plans you
+know if you want
+to you know stack a bunch of objects on
+top of each other and some objects are
+bigger than others you have to sort of
+organize the order in which you're going
+to stack the objects you know you search
+for a sequence of actions to arrive at a
+goal that's called planning or even um
+let's say you have a robot arm and you
+have to grab an object but there is
+there's you know obstacles in front of
+it you have to plan a trajectory for the
+arm to grab to grab the object um so all
+of that is planning that's part of this
+searching for a solution to a problem um
+but that part of AI which again was
+started in the 50s and was dominant
+until the '90s uh completely ignored
+things like perception like how do we
+understand the world how do we recognize
+an object um how do we separate an
+object from its background so we can
+identify
+it um and um you know how how how do we
+think um not in terms of logic or or or
+search but perhaps in more abstract uh
+abstract terms and so that was
+essentially ignored but there was
+another branch of a I also started in
+the
+50s um that said well let's try to
+reproduce the mechanisms of intelligence
+that that we see in animals and humans
+and animals and humans have
+brains um the brains basically organize
+themselves they they learn right they
+they're not spontaneously
+smart and the intelligence is sort of
+emerging emerging phenomenon
+of networks of very simple elements
+in large numbers that are connected with
+each other um so in the 50s 40s people
+started discovering that intelligence
+and and memory comes from the strength
+of the connections between neurons in a
+sort of simplified Manner and the way
+the brain learns is by modifying the
+strengths of the connections between
+neurons so so some people came up with
+sort of theoretical models and and
+actually electronic circuits that
+reproduce this you know can we build
+intelligence you're saying was largely
+the ability to solve a certain problem
+so that's the first view right to solve
+particular problems that that that were
+given the second one is the ability to
+learn right okay and that created those
+two branches of AI right um so the the
+the one that started with the ability to
+learn um there was some success in the
+late 50s early 60s and it died in the
+late 60s because uh the type of learning
+procedures uh for for those neural
+networks that people devised in the in
+the 60s turned out to be extr limited
+you there was no way you could use this
+to produce truly intelligent machines
+but it had a lot of consequences in
+various parts of engineering uh a field
+of engineering called pattern
+recognition um so you're saying now that
+intelligence is the ability of a system
+to learn as well the to learn and and
+the simplest situation in which you need
+machines to learn is for perception
+interpreting um images interpreting
+sounds and what did computers use to do
+that so for that it's it's basically
+what caused the emergence of what we
+could call classical computer science
+okay you write a program and that
+program basically internally searches
+for a solution and has some way of
+checking whether the solution it it
+proposes is good or not um people had a
+name for this in the 60 they call this
+heris programming because you can't you
+can never exhaustively search all
+solutions for a good one because a
+number of solution is ridiculously large
+you know at chess for example right you
+you can play a certain number of moves
+but then for every move that you play
+your opponent can play a certain number
+of moves and then for every of those
+moves you can play a certain number of
+moves so you get this exponential
+explosion of the number of possible
+trajectories basically or sequences of
+moves and uh you cannot possibly explore
+all of them until the end of the game to
+figure out which move to uh to play
+first so so you have to
+use what you know what's called
+heuristics to to basically not search
+the
+entire graph or tree of possibilities so
+we'll put up a graph explaining this but
+what you're saying in herotic AI is you
+would have a user who would put in an
+input there would be a bunch of rules
+and you would use like a tree search or
+a expert AI which would run a function
+like if this then that if not then this
+to try and get to an end State yeah so
+something that would but a defined end
+state
+be defined and and the the program will
+be completely return by a person um and
+uh and the the difference between a good
+and a bad system would be in how uh
+smart the system is in in searching for
+good solution without doing exhaustive
+search okay that's theistic part of it
+um a slightly different approach is the
+one that's based on logic right so you
+have rules and facts what other facts
+can you deduce from the from the
+existing fact and the rules which would
+be logical formula and things like this
+that was you know pretty dominant in the
+1980s um and that led to a um an area of
+uh of AI called expert systems or world
+based systems
+um to some extent is very connected with
+this idea of search okay and then in
+parallel to this there is the bottom up
+uh approach you know let's try to
+reproduce the to some and get
+inspiration from the the basic
+mechanisms of intelligence in biology
+Implement um allow machines to learn and
+basically organize themselves um with
+the idea that how would you do that so
+so it's based on the same idea that
+neuroscientists figured out was going on
+in the brain which is that the learning
+mechanism in the brain proceeds by
+modification of the strength of the
+connections between neurons right um and
+and and people imagine that know this
+type of learning could um actually be
+reproduced in machines so first it was
+the idea that you could you know that
+neurons were simple simple computational
+elements there were proposal around
+those lines in the 1940s by
+mathematicians like M and pitz and
+people like that and then in the 50s um
+and early 60s people proposed a very
+simple algorithm to change the strength
+of the connections between neurons so
+that they could on a task um so the
+first machine of this type was called
+the perceptron and it was proposed in
+1957 it's a very simple thing and it's
+very simple to understand um let's say
+you want to train a system to recognize
+simple shapes um images okay what is an
+image for a computer or for a artificial
+system it's a it's an array of
+numbers
+um we know that today because we're
+familiar with digital cameras and pixels
+right so um let's take a a black and
+white camera a pixel
+um is if the pixel is black it's a zero
+if it's white it's a one okay so you can
+take only two
+values black or white um if you want to
+build this with 1950s technology you
+would put an array of photo sensors
+photo cells right with with a lens in
+front of them and you would show an
+image very low resolution maybe 20 x 20
+pixels or something like this or even
+lower
+um so now that gives you an array of
+numbers that you can fit to a computer
+but what they did in 1950s computers
+were incredibly expensive so they
+actually built electronic circuits so
+the the pixels were voltages um coming
+out of the photo sensors um and then you
+want to train a system to recognize
+simple shapes let's say distinguish the
+shape of a c from the shape of a d uh
+drawn on this uh on this array
+um so you show an example of a c and
+then you let the system produce an
+output this output will also be a
+voltage and the way the output is going
+to be computed is a weighted sum of the
+of the values that come in of the pixels
+that are one or zero the weights are
+connections to a simulated neuron which
+is just an electronic circuit that
+computes you know if it's a if it's a
+one or a zero I'm going to multiply this
+one or Z by a weight which is like a
+resistor that you can change the value
+of okay and then um all of the pixels
+with their weight are going to be summed
+up if the weighted sum is larger than
+the threshold it's a c if it's lower
+than that threshold it's a d all right
+what era was this which year did you see
+1957 um so now how do you train this so
+training consists in changing the value
+of those weights you can have positive
+or negative weights um and what you do
+is you show a C and system confutes the
+weighted sum so for a c you want the
+weighted sum to be large larger than
+zero let's say okay and let's say it's
+smaller than zero so the system made a
+mistake so you tell it no it should be
+larger okay you press a button basically
+and you tell it I really want the output
+to be to be bigger so what the system
+does is that it changes all the weights
+that get a one so it increases them a
+little bit if you increase all the
+weights they get a one one the weighted
+sum increases right and if you keep if
+you keep doing this changing the weights
+just a little bit every time eventually
+the weighted sum is going to go above
+zero and then the system will recognize
+this as a c and what did we use this for
+back in the 50s and 60s so nothing
+really very practical other than
+recognizing simple shapes okay um so you
+you you repeat showing a c and a d and
+for for the C you say increase the
+weighted Su for the is a decrease of
+weighted sum so decrease of Weights that
+have a one increase of Weights that have
+a zero and then eventually the system
+settles on the configuration of Weights
+so that when you show a c it's above the
+threshold when you show a d is is below
+the threshold so it can distinguish the
+two and what it's going to do is you
+know give a positive weight to the
+pixels that only appear for the C and A
+negative weight to the pixels that only
+appear for the D and that will sort of
+discriminate between those two so we had
+we had htics AI expert AI trying to
+mimic biology all of this in the ' 50s
+and ' 60s in the 50s yeah starting in
+the ' 50s and then you know two
+different branches basically competing
+with each other and they tried to kind
+of
+um so one person a prominent figure in
+um in AI the pioneering days is Marvin
+Minsky he was a professor at MIT he has
+a Marvin there is a I remember reading
+about this there's a Marvin clause or
+debate or something like that right um
+well he was uh he had pretty strong
+opinions about things so there was a lot
+of discussions um and is interesting
+because he started his PhD in the 50s
+trying to build neuron net and then
+completely changed his mind MH and and
+and became uh basically a big advocate
+for the other approach the the more
+logic based and search approach and in
+the late 60s or mid 60s he wrote a book
+Co wrote a book with uh sour pepper was
+a mathematician in MIT um whose title
+was perceptron and the whole book was
+to do some theory about perceptron and
+to show that the cap the
+capabilities of the perceptron was
+limited so the people who are working on
+their net at the time kept working onet
+but they changed the name of what they
+were doing they called it statistical
+pattern recognition which sounds much
+more serious or adaptive filter Theory
+which also sounds very serious and those
+had enormous application in the world in
+my world it's always been I work in
+finance
+and hedge funds and fund managers have
+always been attempting to pump a lot of
+data into a neural network to recognize
+patterns right is it the same thing that
+we're talking about an evolution from
+the 50s yeah absolutely um I mean the
+process I describe of changing
+coefficients you know up or down to get
+the output you you want uh you could
+think of the this as a iterative process
+very similar to linear regression which
+if you work in fance you probably know
+that uh so but what I've realized Jan is
+it's even today uh it's very easy to
+tweak data that you have collected
+retrospectively to make something appear
+like it makes sense but Financial
+activity tends to be so random that I
+don't know if you can build a model
+based on that right so the um well that
+that addresses a bigger issue when you
+when you train a system this way right
+so the the generic principle which is
+called supervisor rning is U you give an
+input to the system it produces an
+output if the output is not the one you
+want uh you adjust the coefficient so
+that the output gets closer to the one
+you want okay and there are efficient
+ways to figure out how to tweak the
+parameters so that the output gets
+closer to the one you want and if you
+keep doing this on hundreds thousands
+millions billions of examples eventually
+this system if it's powerful enough
+we'll figure it out now the problem with
+the perceptron is that the type of
+functions input output functions that
+was accessible to perceptron was very
+limited MH so there was no way you could
+take a natural image uh you know a photo
+uh uh and and train the system to tell
+you if there is a dog or a cat or a
+table in it right that was just not
+possible the system was not able to um
+was not powerful enough to really
+compute this kind of complex function
+uh this is what neural Nets and deep
+learning changed in the
+1980s and the what just before you get
+into neural
+Nets if I'm trying to paint the entirety
+of the picture would you say there is
+Intelligence on top artificial
+intelligence and below that is machine
+learning and neural Nets are a part of
+machine learning yeah so in terms of
+fields and subfields AI is more of a
+problem than a solution okay it's a
+field of investigation and then there is
+different techniques you can use for
+that right so there is something that
+jokingly is referred to as good
+oldfashioned AI GOI which is using logic
+and search and her istic programming and
+things like this which is this is what
+you will find in sort of standard
+textbooks on on AI then there is machine
+learning so there the idea is you don't
+completely program a machine to do
+something you you train it from data
+that means you need
+data within this there is a subcategory
+equal deep learning and this is what the
+reason why we hear so much about here in
+the last Dozen Years is because of deep
+learning and neuron Nets is really the
+ancestor of deep learning deep learning
+is a new name for it if you want um um
+and and then there is you know
+application areas um so below that below
+that so and and they can use
+combinations of those techniques right
+so so big applications are computer
+vision interpreting images uh speech
+recognition natural language
+understanding um and maybe speech
+synthesis also can be viewed as part of
+this Al is more connected with signal
+processing uh and then you know various
+other applications so in you know time
+series prediction or financial modeling
+and things like this you know could be
+seen as part of this so if you had to so
+I'm I'm breaking it down AI has GOI
+under it which is traditional in nature
+like you explained then machine learning
+yes can you define GOI in a simple uh on
+line definition so GOI is the the
+descendant of uh the the what I was
+describing earlier as searching for
+Solutions right this idea that it's all
+about reasoning reasoning is all about
+search uh you know looking for a
+solution to a problem and having a way
+of characterizing whether you found a
+solution so you mean the rule based
+thing input in an output based on what
+applies the what rule applies like that
+um the the um yeah I mean any any world
+based system anything that uses logical
+inference MH um deducing facts from
+rules and previous facts searching for a
+solution like finding the shortest path
+in a you know in a graph or something um
+those are good old fashion Ai and under
+machine learning what are the different
+types of ml so so there is uh So-Cal
+traditional machine learning I'm not
+sure that deserves the term and this is
+basically derived from uh statistical
+estimation so things like linear
+regression we be part of it and then
+there are other methods slightly more uh
+sophisticated uh uh
+boosting
+um classification trees super Vector
+machines kernel methods I mean there
+there's a bunch of methods of this type
+and B in inference that are part of
+machine learning in the sense that they
+they obey that model of you know you you
+you build a program but the program is
+really not finished it's got a bunch of
+tunable parameters and the input output
+function is determined by the value of
+those parameters and so you train the
+system from data using this iterative um
+adjustment techniques that I described
+before show examples if the answer is
+incorrect adjust the parameters so that
+it it comes closer to the answer you
+want so machine learning is supervised
+in a way so that's supervised running
+okay you you tell the system here is an
+output here is the desired desired
+output M um but there are other forms of
+learning so one one different form is uh
+reinforcement learning so in
+reinforcement learning you don't tell
+the system the correct answer you just
+tell it whether the answer it produced
+was good or bad you give you give it a
+single number that tells it your answer
+was good or was bad and what happens
+next say I'm a reinforcement learning
+engine and you tell me an answer was
+good or bad what do I do next well so if
+your answer was good um you don't do
+much if your answer was bad then uh you
+have to figure out which answer among
+all the possible answer that could have
+produced which one would be a better one
+so maybe you try another answer and you
+say what about this one is it better or
+is it worse uh if the environment tells
+you it was better then you kind of
+deemphasize the first one and emphasize
+that one by tuning the parameters inside
+of an Internet or something like that
+some sort of learning uh learning
+machine so what is self-supervised
+learning okay so self-supervised
+learning is what has become very
+prominent over the last five six years
+and um is is really the the the main
+component or the the main contribution
+to the success of things like chatbot
+natural uh language understanding
+systems they don't fall under reinfor
+enforcement learning no it's more
+similar to supervised running but the
+difference is that instead of having a
+clear input and
+output and training the system to
+produce the output from the input um you
+basically only
+have things that can either be input and
+output let me take an example
+um you take a a piece of
+text and you corrupt that text in some
+way so by removing some words right so
+now you have a partially masked uh text
+where some words are missing and you
+train the machine to predict the words
+that are missing so the technique you
+would use for this is supervisor running
+because you tell the system here is the
+correct word that you should predict at
+that location MH um and the system can
+use all the words that it can see to
+predict the words that he cannot see and
+this is an example for supervised
+learning self-supervised learning it's
+self-supervised because the there is no
+differentiation between input and output
+it's really kind of the same thing and
+if the input is for example an image the
+the way you um you would train a self
+supervis rning system is that you would
+corrupt or transform the image in some
+way and then you would train the system
+to recover the original image from the
+corrupted or transform version of it
+okay so there's no supervision you don't
+need someone to go through a few million
+images and labeling them is it a cat or
+a dog or a table or a chair um it's it's
+it's a task of basically understanding
+the the input uh the internal structure
+of the input by being able to fill in
+the to fill in the blanks forgive me for
+asking maybe a really stupid question
+I'm trying to picture this let's say I
+have X amount of data I have 10 lines
+that say cats are black dogs a white
+whatever 10
+lines I remove a part of it and then I
+tell the model to fill it in yeah are
+you saying at that point of time I also
+tell the model the answer saying this
+should be the answer yeah you you you
+tell it here is the answer that I
+removed like can you predict this
+missing can you arrive at the answer
+which I removed and I'm telling you that
+this was the answer right but you can
+only use the thing that you can see so
+you don't see the answer on the input
+you have to predict it but I'm telling
+you when during training I tell you what
+it is and so the system can adjust its
+parameter to its parameters in a
+supervised fashion so the the only
+differ the difference is not in the
+algorithms themselves it's basically
+supervis running but it's in the
+structure of the system and the way the
+data is uh is is used and and and
+produce you you don't need to basically
+have uh you know someone going through
+millions of images and telling you uh
+this is a cat or a dog a table um you
+just show an image of a dog a cat or a
+table
+and you corrupt it partially change it
+change the colors maybe or something and
+then ask the system to recover the
+original one from the corrupted one okay
+so that's that's uh one particular form
+of self supervising and this is what's
+been incredibly successful for natural
+language understanding so things like so
+chatbots are or llms large language
+models are a special case of that where
+you train a system to predict a
+word but you only allow it to look at
+the words the the words that preced it
+um you know that are to the left of
+it um and that requires kind of building
+the neuronet in a particular way so that
+the connections that that predict one
+word only look at the the words that
+precede so then you don't need to
+corrupt the input you just show an input
+and through the structure of the system
+the system can only predict can only is
+trained to predict the next word from
+from from the content and these are all
+examples of neural networks in a way
+these are all underlying this are
+particular way of connecting neural
+network neurons with each other
+simulated neurons right uh or or simple
+elements that compute a very simple
+mathematical function something like a
+weighted sum and what's adjustable are
+the weights or in the case of uh
+Transformer architectures which are are
+very uh popular at the moment um uh they
+consist in basically comparing every
+input to each other and and producing
+weights uh I I could explain this it's a
+little more complicated but what is a
+Transformer so okay so there are several
+Architectural Components uh which from
+which you can build a neural net so let
+me start with um very simple idea let's
+say you want to build a neural net that
+recognizes images okay so again an image
+is an array of numbers indicating the
+brightness of every pixel right um You
+can build a neural network with a single
+layer so let's say you want to
+distinguish um 10 categories okay cats
+dogs tables and chairs and cars and
+whatever um or let's say it's simpler
+you want to recognize the 10 digits okay
+0 to9 U someone drawing a digit it's
+drawn on a 16 x 16 pixel area so you
+have 250 256 inputs and you have 10
+outputs okay you can have a single
+what's called a single layer on your net
+uh which basically each output is a
+weighted sum of of the pixels and you
+try to train those weights in such a way
+that when you show a zero the output
+zero is the most active and the other
+ones are less active and and so forth
+for all the categories
+okay that may work for simple shapes
+like like printed uh digits it won't
+work for handwriting because there's so
+much variability in the characters that
+you cannot reduce the classification to
+a simple weighted sum okay so the
+Breakthrough that occurred in the 1980s
+was to um stack multiple layers of
+neurons so each Neuron computes a
+weighted sum and then passes this
+weighted sum through essentially a
+threshold function so if the weighted
+sum is below a threshold the the neuron
+stays inactive the output is zero and if
+it's above a threshold it's active okay
+there's various ways to do this um but
+it's nonlinear and that's very important
+so you stack two
+layers where um the the middle layer you
+could think of as detecting sort of
+basic motifs on the inputs and then the
+second layer sort of integrate those
+motifs to figure out okay this is a a c
+because it's got two n points you know
+the the uh the shape of the C kind of
+stops there and I can detect that so if
+there's two of them that's a c and a d
+doesn't but a c has two corners maybe I
+can detect that the system spontaneously
+learns to do this from end to end and
+and the way it works is through an
+algorithm called back propagation um and
+what this back propagation algorithm
+does is that when you show an image of a
+C and you tell the system this is a c so
+activate this output neuron does not and
+do not activate the other ones it knows
+how to adjust the parameter so that the
+output gets closer to the one you want
+um and that's done by propagating
+signals backwards to um to basically
+figure out the sensitivity of each
+output to um to to each weight so that
+you can change the weights in such a way
+that the good output increases and the
+bad outputs decrease right um so that's
+back propagation that um um algorithms
+to do this so the back propagation
+algorithm popped up in the
+1980s conceptually it existed before but
+people didn't realize they could use it
+for machine learning and there was a
+wave of interest in neuron Nets starting
+in the mid mid mid 80s lasting 10 15
+years um to kind of exploit this idea of
+multilayer networks and this
+was crucial because it it lifted some of
+the limitations that Minsky and paper in
+the 60s
+said were you know the percep one was
+the was subjected to um so a big wave of
+interest but then people realize that to
+train those neuron Nets um you need a
+lot of data and this was before the
+internet there was not much data you
+need fast computers and computers were
+not that fast um so so people kind of
+lost interest in a little bit in this
+but one thing that I worked on in the
+late 80s early 90s is um if you want a
+system of this type to recognize images
+you can have to connect the neurons to
+each other in a particular way that
+facilitates the system soort of paying
+attention you know being able to detect
+motives for example right local motives
+so um I got inspiration from biology
+again um a classical work in
+Neuroscience that that went back to the
+1960s to basically organize the way the
+neurons are connected to each other into
+layers uh so that they bias towards kind
+of finding good solutions for image
+recognition so that's called a
+convolutional neural network or conet um
+so just just to come back to this where
+you are like so you broke down machine
+learning I'm sorry I keep going back
+sure or I'll get confused yes so under
+machine
+learning the really popular pathway
+right now let's say self-supervised
+which has chapped GPD and a bunch of
+other things
+what's happening in the reinforcement
+learning space so not So Much Anymore um
+there was a big wave of interest in
+reinforcement learning um about you know
+a dozen years ago and companies like
+deep
+M set themselves up with the idea that
+reinforcement learning was going to be
+the the key element towards building
+truly intelligent machines mhm can you
+again like Define reinforcement learning
+once more in a line so reinforcement
+learning is a situation where you don't
+tell the system what the correct answer
+is you just tell it whether the answer
+it produced was good or bad right okay
+okay so there are many possible answers
+it's very inefficient because the system
+has to try many things before it gets
+the correct answer um and
+so it's very inefficient it requires
+many many many trials and so it works
+really well for games you know you you
+it's very efficient if you want to train
+a system to play chess or go or things
+like that poker reinforcement learning
+is great because you can have the system
+play millions of games against itself or
+copies of
+itself and it can adjust it you know it
+wins or loses a game so it can you know
+it knows
+which policy which flavor of the
+neuronet won the game and sort of
+reinforces that and deemphasizes the one
+that lost and so the system basically
+can train itself right and what did you
+say a Transformer was okay so I was
+coming to this you know through
+commercial net right so there is this uh
+um
+particular way of connecting simility
+neurons with each other to bias it
+towards doing a good job for certain
+types of data and uh conval Nets are
+really good for uh data that comes from
+the natural world whether it's an image
+or an audio signal um which are things
+that are um where where nearby values in
+the array of numbers that come to you in
+an image or audio signal nearby values
+are generally very similar to each other
+so if you take a picture any picture
+natural image and you take two
+neighboring pixels they're very likely
+to have the same the same color or the
+same intensity now what I'm talking
+about here is the fact that the you know
+natural data like images and audio and
+just about any natural signal has some
+natural underlying structure to it um
+and if you build the neural net in a
+particular way that that can take
+advantage of this structure it it will
+learn faster it will learn with fewer
+samples so we started doing doing
+experiments with this in the late 80s
+and and and build those comption Nets
+they are inspired by the architecture of
+the visual cortex really um and there's
+some mathematical justification for it
+but the the basic idea is that um each
+neuron in a conval net only looks at a
+small area of the image and and you have
+multiple neurons looking at multiple
+areas of the image and they all do the
+same thing they all have the same
+weights um it's a basic concept which
+connects with mathematical concept
+called convolutions and so that's why
+those things are called convolution Nets
+okay so that's what's called an
+architectural component or a module a
+convolution is something that has an
+interesting property which is that if
+you show it an input it's going to
+produce a particular output if you shift
+the input the output will be shifted but
+otherwise unchanged and that's a very
+interesting property for audio signals
+images and various other natural signals
+okay now a
+Transformer is a different way of
+arranging the the the neurons uh if you
+will in such a way that um the the
+inputs are a number of different items
+we call them tokens they're really
+vectors which means list of numbers okay
+and the property of a uh the layer or
+the block of a transformer is that if
+you permute the inputs the output will
+be permuted similarly but otherwise
+unchanged um when you say otherwise
+unchanged you mean you mean I what I
+mean is that um if you you give a bunch
+of tokens you run through the
+Transformer you will get a bunch of
+output tokens okay the same number
+generally as the number of input tokens
+there'll be different vectors um if you
+now take the first half and the second
+half of of your sequence of input tokens
+and you flip them what you will get is
+the same result that you got previously
+but it will be flip exactly the same way
+okay so the input output function is uh
+technically we call this equivariant to
+permutation so it basically views the
+inputs as a set in which the order of
+the object does not matter okay um Comal
+Nets on the other hand view the input as
+as something where an object could
+appear at any location on the input and
+it shouldn't make any difference to the
+output or the output should change but
+otherwise I mean should shift but
+otherwise stay on change that's
+equivariance to translation now when you
+build a neural net you basically combine
+components of this type so that you get
+the the property you want out of the
+entire neural net so you combine things
+like convolutions and Transformer blocks
+what is convolution yeah I'm sorry I'm
+going to ask you like to simplify every
+single term oh absolutely so convolution
+is this component for a comol neuron net
+so the idea of it is that you have a
+neuron that looks at at a part of the
+input and then you have another neuron
+that looks at another part of the input
+but it computes the same function as the
+first neuron and then you replicate that
+same neuron for every location on the
+input so that um you can think of each
+of those neurons as detecting a
+particular Motif on a part of the input
+and all the neurons detecting the same
+Motif at different parts of the input so
+that now if you take an input and and
+you shift it the you're going to get the
+same output shifted because you know
+you're going to have the same neurons
+looking detecting the same Motif just at
+different locations so that that's what
+gives you this shift equivariance
+um that's a convolution mathematically
+there's something called a convolution
+that mathematicians invented a long time
+ago and that's basically what this what
+this does when you say neuron in all of
+this can you explain the basis of just
+that term what is it so uh we we we use
+that term it's an abusive language
+because those neurons are not really
+neurons like in the brain they're they
+are to real neurons as an airplane wing
+is to a bird wing okay M so it performs
+the same it has the same concept and
+what a neuron does in a neuronet is
+Computing a weighted sum of its inputs
+and then comparing that withed some to a
+threshold activating the output if it's
+above the
+threshold and and producing zero if it's
+below the threshold that's the the basic
+neuron now there are variations of this
+and in a Transformer it's a slightly
+different type of mathematics you can
+comparing vectors to each other and
+things like that but uh but that's kind
+of the basic functionality of a neuron
+It's a combination of a linear operation
+where you have coefficients that you can
+change the value of through training and
+then a nonlinear uh function a threshold
+or something like that that uh you know
+detects something or not right we looked
+online and while we were researching we
+could not find a good definition for
+neural network language model and how it
+works in simple terms okay um so the
+idea of a language model goes back to
+the 1940s a gentleman called Claude
+Shannon he's a very famous uh
+mathematician who used to work at bz
+where I used to work um although he
+wasn't there anymore when I joined uh
+and he he came up with a theory called
+information Theory and then was
+fascinated by the idea that you could
+discover the structure in data right so
+he invented something where you take a
+text um and and you say I'm give you a
+I'm giving you a sequence of letters and
+I'm asking you what is the next letter
+that comes afterwards okay so let's take
+a you know English word um or whatever
+in in the sort of uh let's
+say you know Roman
+language if you have a series of letters
+and the last one is a q it's very likely
+that the next letter is a u you almost
+never have a q without you behind it
+unless it's an Arabic word or something
+that's been translator right um so for
+every every letter that you observe you
+can you can build a table of the
+probability that the next letter will be
+an a a b a
+c this is where the word generative
+comes from yeah so it's generative
+because if you have this table of
+conditional what we call conditional
+probabilities right given the previous
+letter what is the next what is the
+probability of the next letter you can
+use this to generate text you you start
+with a letter let's say Q okay and then
+you look through the table probability
+what's the next letter that is most
+likely you just pick that one that's
+going to be you mhm um or you don't pick
+that one you you you pick the next
+letter with the probability that is you
+know you flip a coin or you generate a
+random number in the computer and then
+you you produce the you know the
+following letter according to the
+probabilities that you measured on real
+text um and you keep doing this and the
+system is going to just generate letters
+um it's not going to look like Words mhm
+uh it's probably not even going to be
+pronounceable
+right um but that if instead of a
+context of one letter you take a context
+of two letters then it
+becomes kind of more readable it's still
+not words right if you take a context of
+three
+letters then it it becomes you know even
+nicer and as you increase the size of
+the context that determines the the
+probability of the next letter it
+becomes more and more readable but you
+have an issue there which is that um uh
+the the size of the table you need if
+you have if you look at the first letter
+and and and and you have to figure out
+what's the probability for the next
+letter you need a table of
+26 rows and 26 columns for each first
+letter what is the probability for every
+possible second letter right so it's
+table 26 by 26 now if you the context
+has two
+letters now the number of rows in your
+table is 26 squared because you have 26
+squared sequences of two possible
+sequences of two letters right and for
+each of those you need 26 probabilities
+so it's 26 Cube the side of your table
+as you add
+characters um the table increases to 26
+to the^ n when n is the length of the of
+of the uh of the sequence so that's
+called an NR model and that's a language
+model you can do this at the level of
+characters it's more difficult to do
+this at the level of a word because you
+might have 100 thousand possible words
+right so now your table is gigantic MH
+so you can train a word model or or
+language model by by just filling up
+this table of probabilities by training
+on a large Corpus of text uh but it
+becomes impractical above a certain
+length of context number of the amount
+of compute and work required is it's
+also it's the memory of storing all
+those tables and uh also the fact that
+um those tables are going to be very
+sparely populated because you can have
+billions of words of text most
+combinations of words don't appear some
+them are extremely rare and so you
+cannot estimate the probability properly
+okay so is this a part of self
+supervised learning so you could think
+of this as an instance of self supervis
+running because you only need sequences
+of symbols and it doesn't matter where
+they come from and you don't they don't
+necessarily come from Human uh
+production if they're not text if it you
+know it could be for example uh a
+sequence of frames for a video right I
+mean you would have to turn it into
+discrete objects which of course doesn't
+is difficult but um uh but it's you know
+whatever data comes to you
+so uh in the late
+90s
+um some people had the idea that in
+particular y Benjo the idea that you
+could use a neural net to to do this
+prediction instead of filling up tables
+with conditional probabilities that you
+measure from text just train a noral net
+to predict the next word okay give it a
+context of words and just train it to
+produce a proba distribution over the
+next word and he experimented with this
+with you know neuron Nets that were big
+for the time but small by today
+standards and one difficulty was you
+cannot exactly predate what word is
+going to come next so you have to
+produce a probability over all the words
+and there's maybe 100,000 words in a
+typical um uh language and so that means
+you're you need to Output 100,000
+scores one for each word that indicates
+with which probability that word follows
+the the previous sequence of words um so
+it demonstrated that that that could
+work and you know even with the
+computers of the time it was kind of
+challenging but but but it could work
+and then the idea was kind of revived
+more
+recently um and it turned out that if
+you use those Transformer architectures
+which I didn't explain uh and you you
+train them on basically the entirety of
+all the public available text on the
+internet um and you you build the
+architecture of those system so that
+it's trained to you know take a context
+of words and predict the next
+word um and if you make the context
+potentially very large something like a
+few thousand a few tens of thousands or
+even a million words then you get system
+that seem to have emerging property that
+they can answer questions they can you
+know if you make them really big they
+have so many parameters that are
+adjustable they have they may have tens
+of billions or hundreds of billions of
+parameters that gives them a large
+amount of memory and they they they seem
+able to store a lot of knowledge about
+the the data they me train on if it's
+text they will regate solutions to
+puzzles they will you know give you
+answers to um to questions you may have
+it's mostly retrieval there's a very
+tiny bit of reasoning but really not
+much uh and that's an important
+limitation but it's still surprising how
+well those things work and it's um you
+know what people got really surprised
+about is that those systems can
+manipulate language um in ways that
+are uh very impressive right I mean
+humans have pretty limited in our way
+with medip language and and those things
+seem to be really good at it I mean they
+capture grammar and you know syntax and
+everything in multiple languages right
+that's pretty amazing so if I were to
+like go back
+and paint a tree so let's say AI on top
+machine learning under it I'm talking
+about what is making the news today and
+what everybody is so excited about
+machine learning has different things
+different neural networks under it
+there's a reinforcement one like deep
+mind there is a
+self-supervised
+generative chat GPT because using it as
+a placeholder as it's the most popular
+one right now LM huh llm Auto regressive
+LM really that's what it should be
+called Auto regressive
+yeah I mean the the the proper
+organization is yeah there is AI at the
+top uh machine learning is a particular
+way of approaching
+the AI problem under this is deep
+learning which is really the the the
+foundation of pretty much all of AI
+today um so basically neural networks
+with multiple layers right so the idea
+of this goes back to the 1980s and back
+propagation that's still the the the
+basic Foundation of everything we do and
+this there is several families of
+architectures convolutional Nets
+Transformers combinations thereof um
+then there is under Transformers there
+is several um flavors of it some of
+which can be applied to image
+recognition or audio some of which can
+be applied to representing natural
+language but not generating it and then
+there's a subcategory large language
+models which are Auto regressive
+Transformers so Transformers have a
+particular architecture that uh allow
+them to predict the next word and you
+can you you can use it to just generate
+word because you know given a sequence
+of word has been trained to produce the
+next word so given a text you have
+produce an X word and then you shift the
+input by one so now the word it
+generated is part of its input and you
+can ask it to generate the second word
+shift that third word shift that fourth
+word that's Auto regressive prediction
+it's the same concept as auty models in
+finance and econometrics and stuff like
+that same stuff and
+these work best for text but not for
+pictures videos or any of that that's
+right and the reason it works for text
+and not for other things is because text
+is discrete so there is a finite number
+of possible things that can happen right
+there's a finite number of words in the
+dictionary there a you know so if you
+can discretize your signal then you can
+use those Auto regressive prediction
+systems and the you know the main the
+main issue is that
+um you're never going to be able to make
+an exact prediction MH and so the system
+is going to have to learn U some sort of
+probability distribution or at least you
+know produce scores that are different
+for for uh for different potential
+outputs so you can output a list of
+probabilities if you have a finite
+number of possibilities which is the
+case for language um but if you want to
+predict what's going to happen in a
+video the number of possible frames
+video frames is essentially
+infinite right you you have you know
+let's
+say a million pixels right an image
+thousand by thousand pixels pixels are
+in colors you have three values so
+that's 3 million values um that you have
+to produce and and we don't know how to
+represent a probability distribution
+over the set of all possible images with
+3 million pixels but this is what
+everybody's very excited about this is
+what a lot of us consider the next
+challenge in AI so basically have
+systems that can learn how the world
+Works uh by watching videos and if you
+were to say videos learn from videos and
+pictures which will be the next phase
+where does that fall in this entire
+equation does it come
+under where llm sit today no it's
+completely different from llm which is
+why I've been U pretty vocal about the
+fact that llms are not the pass to human
+level intelligence um LMS work for
+discrete worlds they don't work for
+continuous s dimensional Words which is
+the the case for video and this is why
+llms do not understand the physical
+world um and and cannot be used in their
+current form to really understand the
+physical world and so we have I mean
+llms are amazing in their ability to
+manipulate language but they can make
+very very stupid mistakes that reveal
+they really don't understand how the
+world works right the underlying world
+and um this is why we have systems that
+can pass the bar exam or or write an
+essay for you but we don't have domestic
+robots we don't have cell driving cars
+or completely autonomous level five cell
+driving cars we we you know we don't
+have systems that really understand very
+basic things that your cat can
+understand so I've been yeah you know
+kind of vocal saying that you know the
+smartest llms are not as smart as your
+house cat yeah and it's really true so
+so the the challenge for the next few
+years is to build AI systems that lift
+the limitation of limitations of llm so
+systems that understand the physical
+world are have persistent memory which L
+really don't have at the moment
+persistent memory persistant memory
+which means you know they can remember
+things right store facts in a in a
+memory and then retrieve them when it's
+interesting um can't llms remember stuff
+now the only memory that an llm the only
+two there's two types of memory that LM
+has the first type is in the parameters
+in the coefficients that are adjusted
+during training right so they will learn
+something
+they it's not really kind of storing a
+piece of information if you train llm on
+a bunch of novels it cannot regurgitate
+the novels but it will remember
+something about the statistics of the
+words in that novel and it might be able
+to answer questions you know general
+questions about about the story and
+things like this but you're not going to
+be able to regate all the words right um
+kind of like humans right you read a
+novel you can't you can't remember all
+the words you you unless you spend a lot
+of efforts trying to do this uh so
+that's the first type of memory and then
+the second memory is the context the The
+Prompt that you type and since the
+system can generate word and and and
+those words are or those tokens are
+injected in its input it can use this as
+some sort of working memory but it's a
+very limited uh form of of memory what
+you want is a memory that would be more
+similar to what we have in our brains
+what molans have called the
+hippocampus um hippocampus is a kind of
+a brain structure in the center of the
+brain in Sol the cortex and if you don't
+have a hippocampus you can't remember
+things for more than about 90 seconds
+and if you were to draw a path from
+intelligence that we described on top
+all the way down to self-supervised
+learning how do you suspect that path
+will look towards as getting to the
+point where we are learning from videos
+and images and more humanlike
+intelligence so the the path that um
+I've been trying to to plot um is uh
+discovering new architectures different
+from those autoagressive architecture
+used for LM that would be applicable to
+to video so that self-supervised
+learning could be used to train those
+systems and this type of self supervis
+learning basically would be here is a
+piece of a video predict what comes next
+um and and if a system can do a good job
+at predicting what's going to happen
+next in a video that means it probably
+has understood a lot about the
+underlying structure of the world
+similarly to a large language model
+learns a lot about you know Language by
+just being trained to predict the next
+word right so not like I will understand
+but if you had to give us a line on how
+that architecture might look okay so
+here is the issue
+because as I told you um those
+autoaggressive architecture work for
+text because text is discreet MH and you
+can never predict the what what comes
+next we can produce a prob probability
+distribution over what comes next you
+cannot do this for images and video
+because it's just too complicated
+mathematically and you can show that
+it's intractable and blah blah blah so
+predicting all the pixels in a video
+that follow a particular video segment
+basically is not possible MH or not
+possible to a degree that would be
+useful for the problem that we're
+interested in you know what we want is
+ass that has the ability that uh the
+ability to predict what's going to
+happen in the world because that's a
+good way to for a system to be able to
+plan if I can plan that if I approach my
+hand you know to this glass um and I I
+close my hand and I lift it up you know
+I got to grab the glass and I can drink
+um I can plan a sequence of actions to
+arrive at a particular result right so
+you have a good model of the world that
+says the state of the world at time T is
+this the glasses on the table the action
+I'm going to take is close my hand
+around it okay um and lift what is going
+to be the state of the world at time t
+plus 3 seconds after I closed my hand
+and lifted my arm and the state of the
+world is going to be I'm going to have
+that glass in my hand um so if you have
+this kind of world
+model um state of the world action next
+state to the world then you can imagine
+you you can predict You can predict the
+outcome of a sequence of actions you can
+imagine taking a sequence of actions and
+then predict in your mind what the
+outcome will be You can predict if this
+outcome is something that satisfies a
+goal that you want to accomplish like
+drink a a little bit of water take a sip
+and what you can do is through search so
+now we're connecting with old AI search
+a sequence of actions that will actually
+satisfy this goal um so this is the type
+of um reasoning and planning that
+psychologist call system 2 okay Daniel
+kman is
+a late um Nobel prize winning
+psychologist um and he he makes this
+distinction between system one and
+system two where system one is actions
+you can take without thinking
+subconscious it's just reaction reactive
+and the system two is what you have to
+deliberately plan uh and think about to
+be able to uh produce an action or a
+sequence of actions so Yan will meor
+memory eventually be the answer cuz as
+humans from biology we learn through
+memory right well it depends what type
+of memory I mean we also have multiple
+types of memory we have the hippocampus
+that I I mentioned so hippocampus is
+used to store long-term memories like um
+you know things that happen to you when
+you were a child and things like that uh
+basic facts about the world like you
+know when you're mom was born or
+something um you know also you know
+which way you came in here so where's
+the door so this is more recent
+shortterm memory episodic memory working
+memory so if you're thinking about
+something you're kind of manipulating
+things in your head you have to kind of
+temporarily store uh data that's the
+hippocampus um and and your cortex does
+the computation and basically reads from
+this memory and updates it okay it's
+very much like a a bit of a computer
+where the cortex is the CPU and the
+hippocampus is the memory um that you
+read from and and write into U but the
+current design of AI systems is not like
+that so llms do not have a separate
+memory other than the prompt that you
+can generate token in uh and they don't
+have this ability to search through a
+set of answers for which one is the
+correct one although they're starting to
+have that to some extent so you may have
+heard of o1 from open and there is kind
+of similar work um at MAA and other
+places where um this sort of very basic
+forms of of reasoning that consist in
+having an llm produce lots of different
+sequences of uh of of words and then
+having a way of searching through this
+list of word which one is the best um
+but it's very inefficient so ultimately
+that's not what what you want so going
+back to the question of how do we get
+machines to learn by observing the world
+from learning from video we cannot use
+the architectures that are generative
+that just produce every pixel in the
+video that's just completely impractical
+and I've tried to do this for almost 15
+years okay um and 5 years ago
+we came up with a different way of doing
+things that are called jeppa so it's a
+different architecture and that means
+joint embedding predictive architecture
+and what it means is I watched this for
+a long time on your Lex Freedman
+interview when you spoke about jepa and
+I still don't get it okay here's a basic
+idea tell me if you don't understand
+because I can explain it in different
+ways uh instead of taking a piece of
+video and training a bigor net to
+predict all the pixels of the
+continuation of that video you
+you you you take the the video and you
+run it to an encoder which is going to
+be a big Neal net that's going to
+produce an abstract representation of
+the video okay and then you take the
+reminder of the video the the the future
+you know the second half of that video
+run you to the same
+encoder and then you you train your
+prediction system which is similar
+perhaps to much like LM where you delete
+a part of the data to train the model
+that's right so you know an llm you you
+take a piece of text and you train it to
+predict the reminder of the text right
+and you do this word by word but you
+could do the you could predict multiple
+words so here we're going to do the same
+thing we're going to take a a video and
+then train a system to predict the
+reminder of the video but instead of
+predicting all the pixels in the video
+we're going to run those vide through
+encoders which are going to compute
+abstract representations of the video
+and we're going to do the prediction in
+that space of representations so instead
+of predicting pixels we predict abstract
+representations of those pixels where
+all the things that are basically
+unpredictable have been eliminated from
+from the representation so is that a bit
+like also predicting tomorrow cuz if I
+were to video my life up until now and
+run it through the en encoder it will
+give me some kind of representation of
+Tomorrow well yes but at an abstract
+level right so you can predict um you're
+basing in Bangalore and I I heard so at
+some point you're going to fly back to
+Bangalore uh and you can predict how
+long it's going to take to go back to
+Bangalore but you cannot predict all the
+details of what will happen uh during
+your your journey back to Bangalore
+exactly how long it's going to take
+given traffic how far can you
+extrapolate what will happen three
+months from now if I have data video
+data of the last 10 years of my life so
+here's the trick the is the interesting
+question you can predict very long term
+MH but the the longer in the future you
+can predict the more abstract the
+representation level at which you can
+make the prediction let me ask you a
+question if you were to extrapolate
+years forward all of our Lives you
+figure out how to build this
+architecture and it's implemented and
+it's working where video of our life up
+until now has been programmed into it
+and we're trying to predict 50 years
+forward what do you suspect you will see
+climate change in World
+War so what I'll see is okay so there is
+a a plan for the next few years to build
+systems I can't understand the world
+from video um perhaps what they'll be
+able to learn are those World models
+which are action condition so they they
+will be able to imagine what the
+consequence of an action or sequence of
+action will be they'll be perhaps able
+to plan complex sequences of action
+hierarchically because those World
+models will be hierarchical they will
+have World models that can predict
+really short term make accurate
+prediction but only in the short term
+like if I move my muscle in this
+particular way you know my arm is going
+to be in this particular location 100
+millisecond from now that's really short
+range but very precise and then longer
+time prediction
+um if I go to the airport catch a plane
+I'll be in Paris tomorrow morning or you
+know if I study and I get good grades in
+college you know I can have a good life
+or something right uh so so you can make
+long-term prediction and and design
+plans that would satisfy certain
+criteria that that you have so if we can
+build AI were to predict the future
+would it be utopian or dystopian it
+would be utopian because it would be
+just a a an alternative way for
+predicting the future than our brains
+and for planning action sequences to
+satisfy certain conditions to achieve
+goals that is uh alternative to using
+our brains perhaps accumulating more
+knowledge to be able to do this and
+perhaps having abilities that humans
+don't have because of the limitations of
+our brain right computers can calculate
+and stuff like that right so so the the
+future is that if we succeed in this
+plan which may succeed within the next
+five or 10 years you know five to 10
+years we have systems that
+as time goes by we can build up to
+become as intelligent as humans perhaps
+so reach human level intelligence within
+a decade that may be optimistic all
+right um 5 to 10 years would be if
+everything goes great all the plans that
+we we've been making will succeed we're
+not going to encounter unexpected
+obstacles but that is almost certainly
+not going to happen you don't like that
+right like AGI and human level
+intelligence you think is far far away
+or unlikely no I I don't think it's that
+far away I don't think my opinion about
+how far it is are very different from
+what you will hear from some Alman or
+deis or things like this um it's you
+know quite possibly within a decade but
+it's not going it's not going to happen
+next year it's not going to happen in
+two years it's going to it's going to
+take longer and so you don't want to
+extrapolate the capabilities of llm and
+and say we're just going to scale upm
+train them on with bigger computers and
+more data and you know human level
+intelligence is going to emerge this
+it's not going to work this way we're
+going to have to have those new
+architectures those jetas systems that
+learn from from The Real World um and
+can plan hierarchically uh can can plan
+a sequence of action you know as opposed
+to just producing one word after the
+other essentially without thinking so
+system two instead of system one llms
+are system one the architecture I'm
+describing which are called objective
+driven AI is system to I'd love to come
+like do a course at your college and
+learn if you'll have me as a student I
+don't know if I qualify I'll have to go
+back and finish high school but would
+would love it just to finish the llm
+loop so because it's in the news and
+everybody's talking about
+llms so you define a problem you find a
+large data set most of the time goes in
+cleaning the data you choose a model you
+train the model and then you execute the
+model uh before that you find tune the
+model before that you find tune model
+yes what will change
+here um so there's still going to be a
+need for collecting data and uh and
+filtering data to to to to keep high
+quality data and basically get rid of
+junk um that's actually a pretty
+expensive part of the whole thing but I
+think what's going to need to happen in
+that respect is that currently the the
+you know LMS are trained with a
+combination of publicly available data
+and Li data basically um but it's mostly
+publicly available data you know
+publicly available text on the internet
+right and it's extremely biased in many
+ways that um the the U A lot of it is in
+English um you know this you know
+significant amount of of data in in
+commonly spoken languages like Hindi but
+not so much in all 22 official languages
+of India and certainly not in all the
+700 dialects or or whatever the number
+is
+particularly since most of those dicts
+are not written so only spoken so um
+what we need in the future is uh data
+sets that are more encompassing so that
+the the systems that are trained with it
+understand all the world's languages all
+the world's cultures all the value
+systems you know everything and no
+single entity I think would be able to
+to do this um which is why I think the
+future of AI is uh AI is going to become
+a a a kind of common
+infrastructure which people will use as
+repository of all human knowledge and
+this cannot be built by a single entity
+it's going to it's going to have to be a
+collaborative uh project right with
+training being distributed all around
+the world so that you can have models
+this trained on all data around the
+world but you don't have to copy the
+data anywhere and a private digression I
+was reviewing a data center business to
+invest into
+uh a lot of people tell me that compute
+as a commodity will soon be sold outside
+of the data center and not inherently in
+it is it a good place to focus energy
+and time on like building data centers
+out of India I'm taking the Sovereign AI
+model where every country will probably
+fight to retain their data a bit more
+than they're doing currently yeah so in
+in that kind of future which also I I
+alluded to with the distributed training
+of models uh having local comp Computing
+infrastructure I think is very important
+so yes I think that's kind of crucial
+it's crucial for two reasons one is uh
+having local ability to to train models
+okay and the second one is um having
+very lowcost access to inference for AI
+systems because if we want AI system to
+be used by I don't know 800 million
+Indians right
+um I know there are more Indians than
+this but most people you know not
+everybody will use AI systems but um
+it's a lot of computing infrastructure
+it's actually much bigger than the
+infrastructure for for learning um and
+there is this an area for which there is
+a lot more Innovation than than training
+training is dominated by Nvidia at the
+moment there's going to be other players
+but they they have a hard time U
+competing because of the software stack
+basically their Hardware may be really
+good but the software stack is uh is a
+challenge for influence though there's a
+lot more Innovation there and and that
+Innovation is bringing down the cost
+I think the cost of inference for llm
+has gone down by a factor of 100 in two
+years I mean it's amazing right it's way
+faster than Mor slow U and I think there
+is still a lot of room for improvements
+and you need that because you basically
+need the inference for a million tokens
+to be a few rupees um so so that's a big
+future if you want to deploy AI
+assistance widely in India I want to I
+want to use the time Yan cuz I realized
+we're running out to bring bring it into
+the Indian context are people watching
+this like I said are entrepreneurs in
+play or people trying to be
+entrepreneurs as an Indian 20-year-old
+who wants to build a business in AI a
+career in
+AI what do we do like as we sit today a
+20-year-old U today I would cross my
+finger so that when I graduate at 22 uh
+there will be good PHD programs you know
+in India outside of the academic lens I
+I mean more no no but that that's that's
+what I need to train myself to innovate
+you know doing a PhD or gr grad studies
+it trains it trains you to invent new
+things and and also make sure that the
+methodology you use um prevent you you
+from from fooling yourself into thinking
+you're being in an innovator but you're
+not okay so you learn this what if I'm
+an entrepr rur a 25y old entrepreneur
+you still want to do a PhD if you're an
+entrepreneur or at least a masters
+because you want to really sort of learn
+deep I mean you might be doing this by
+yourself you don't have to but it's
+useful because you you learn more about
+you know what exists out there what's
+possible what's not possible what uh uh
+you get more uh legitimacy in hiring
+talented people I mean there's a lot of
+advantages you know particular in a
+complex deeply technical uh area like
+like AI
+um you might succeed if you don't you
+know that's not the issue but but it
+gives you kind of a different
+perspective okay but now you you know
+you're doing your PhD you're doing a
+startup it might be easier to raise
+money if you've published a few papers
+where you've invented something new and
+you say well this is a new technique
+that really may make a difference you
+know you go see an investor what what if
+I were to even like go one step further
+let's say intelligence I'm I'm going to
+leave the AGI side of it let's say
+narrow intelligence self-driving cars
+robots all of that what should I build
+in if I have to pick a subset where I
+can use narrow intelligence through any
+of the models that we spoke about what
+would I start which has a capitalistic
+leg to it okay so today today like right
+now yeah uh the the most likely business
+model uh that has to do with AI is
+taking a open source Foundation model
+like Lama which is the
+open source system which is used
+everywhere now right every almost every
+startup uses uses it even large
+companies so take an open source
+platform um whether it's an llm or image
+feature extraction system or a
+segmentation system
+whatever and then uh f unun it for a
+particular vertical application and
+become an expert in that vertical
+application and which vertical should we
+pick like I spoke any vertical right so
+but I want to know like give me like top
+three we did Gates we interviewed him
+recently and he said focus on building
+that layer around law because the legal
+processes yeah arrive for disruption
+that's a good example right if you had
+to pick one or two more well there's
+there's I mean in sort of B2B there is
+there is uh legal
+accounting business information right I
+want some report on the competitive
+situation in a particular segment of the
+market you know fintech Finance I mean
+those are obvious obvious areas um uh
+you know lm's uh information system that
+give you all the private information
+inside a company so that any employee
+can ask any question about anything
+administrative or whatever uh and and
+you get the answer you don't have to
+plow through like multiple internal
+websites and information system so that
+that's um that's certainly a good thing
+um and I think there is a lot of work
+there in
+uh basically companies that can find
+tune models for particular verticles and
+then there is you know markets that are
+more consumer um assistance for various
+things uh you know in in for Education
+there's not a huge amount of money there
+unless you can get contracts from the
+government but education certainly is a
+we application probably the the the
+other big one is Health right so there
+are a lot of companies particularly in
+the developing world that are being
+formed for using llm to provide U
+assistance uh medical assistance
+essentially you know you C your LM and
+you say well you know I have those
+symptoms you know should I go to the
+hospital or or like you know this is
+issue I have and it's much easier than
+to get an appointment with a doctor
+there certain parts of the world where
+it's basically impossible to get to see
+a real doctor um you have to you know
+travel to a city or something so um so I
+think that would be useful that you know
+other applications in rural areas
+particularly things that are enabled by
+AI assistant that can speak local
+languages
+um and and serve people who are not
+particularly comfortable with literacy
+that don't write very much don't read
+very much so interacting in your
+language through speech with an a
+assistant I think opens up a lot of
+applications um in agriculture and you
+know all all kinds of are and if I were
+to switch the lens from an entrepreneur
+to an investor what would a investor
+benefit from investing into AI would it
+be Nvidia llama meta chat GPT open AI
+okay uh so I think the first order of
+thing is imagine what the future is
+going to be five years from now and
+basically that's going be that's going
+to be dominated you would do a much
+better job at Imagining the future than
+Ian can you pick can you depict a future
+5 years from now so 5 years from now the
+world is going to be dominated by open
+source platforms um for the same reason
+that the world of you know embedded
+devices and operating system is
+dominated by Linux you know the entire
+world runs on Linux and it wasn't the
+case 20 years ago 25 years ago um and
+it's become so because open source
+platforms are more portable they're more
+flexible they're more secure they you
+know they they they're cheaper to I
+shouldn't take credit for this but we
+have somebody called Kash who's our CTO
+who is a big proponent of this and
+everything we do is open sourced we have
+a fund which gives to open source
+companies and stuff like that right okay
+so the world is going to be open source
+we're going to have open source AI
+platforms uh in a few years they
+probably be trained in a distributed
+fashion so they're not going to be kind
+of completely controlled by single
+company uh the proprietary engines I
+think are not going to be nearly as
+important as they are today because the
+open source platforms are catching up in
+terms of performance and then what we
+know is that a fine-tune open source uh
+engine like Lama always works better
+than a non-f tune generic uh you know
+top performing model so but if
+everything is open sourced it'll also be
+democratized for a investor to invest
+into then what is the differentiation
+well it enables the ecosystem if you are
+a startup you're much better off using a
+bource engine and fine-tuning it for
+vertical application than you are to you
+know um using an API because you can
+build a tailored uh product for for your
+customers in a in a much much better way
+so that's the first thing second thing
+thing is if you really want this
+technology to be democratized and used
+by everyone eventually using smart
+glasses and stuff but but you know at
+first just smartphones and do you think
+the form will change soon the form of
+how you interact with technology will
+move from smartphones to different kind
+of devices soon smart glasses yeah I
+mean yeah there's almost no question
+you're using one so I don't have them
+right now although they are in my in my
+bag right here um I use them all the
+time yeah I I find them really really uh
+useful for kind of stuff even if you
+don't use AI for just taking pictures or
+listening to music or whatever but but
+then then you have the AI assistant and
+I could be you know sitting in a
+restaurant with a menu in a foreign
+script and a foreign language and they
+could be translating it for me right so
+what happens to intelligence and Society
+with all of this changing what becomes
+forget computers and AI for a second for
+humans what is intelligence in that
+world so people's intelligence will be
+moving to different set of tasks than
+the one we are trying to do today um
+because a lot of what we're trying to do
+today will be done by AI systems and so
+we will focus on other tasks so things
+like not doing things but deciding what
+to do or figuring out what to do okay
+those are two different things like
+think about the difference between a
+lowlevel employee in a company MH that
+is told what to do and just does it and
+then you you know a high level manager
+in the company that has to figure out
+like strategy and think about like what
+to do and then tell people below what to
+do okay we're going to we're all going
+to be a boss we're all going to be like
+those uh high level managers we're going
+to tell our AI system what to do but
+we're not going to have to do it
+ourselves necessarily okay so but we
+need lesser people to tell something
+more efficient than as what to do then
+we need today for them to actually do
+the task right so what happens to
+everyone
+else well I think everyone is going to
+be in that situation is going to have
+access to AI assistance and um and and
+be able to delegate a lot of tasks uh
+you know mostly in the virtual world but
+eventually in the real world we're going
+to have at some point domestic robots
+and and uh start driving cars and things
+like this once we figure out how to get
+the system to Le how the real world
+works from video uh but um um so so the
+the the type of task on which we're
+going to be able to concentrate ourself
+are going to be more abstract the same
+way you know nobody needs to do like
+super fast mental arithmetics anymore we
+have
+calculators or or you know solve
+integrals of differential equations we
+we have to learn the basics of how we do
+this but we have you know we can use
+computer tools to do this right um so so
+it's going to lift the abstraction level
+at which we can place ourselves and
+basically enable us to be more creative
+uh be more
+productive okay and and there are a lot
+of things
+that you and I have learned to do that
+our descendants would not have to learn
+to do because that would be taken care
+of by machines like go to school no no
+we'll still go to school we'll have to
+educate ourselves we'll have to there's
+still going to be the the you know the
+the competition between humans to kind
+of do something better than the others
+or something different more creative
+always right innately we want to compete
+with
+yeah yeah so we're not going to run out
+of jobs economists that I talk to tell
+me we're not going to run out of jobs
+because we're not going to run out of
+problems um but but we're going to find
+better solutions to problems with the
+help of AI maybe we can end today Yan
+trying to Define what is intelligence
+really I had written down intelligence
+is a collection of information and the
+ability to absorb new skills it's a
+collection of skills and an ability to
+learn new skills really quickly or in
+ability to solve problems without
+learning this is called zero shot in in
+the AI business you know you're faced
+with a new problem and you can think
+about it for a while and you may not you
+may never have faced similar problem
+before you can solve it by just you know
+thinking and and using your mental model
+of of the situation that's called zero
+shot you're not learning a new skill
+you're just solving a problem from
+scratch so the combination of those
+three things you know having already
+number of skills that you know
+experience with solving problem
+accomplishing tasks being able to learn
+new tasks really quickly with a few
+trials um and then the next step is
+being able to solve new problems zero
+shot without having to learn anything
+new um that's the combination of those
+three thing things really is
+intelligence now thank you Yan so much
+for doing this uh I'm going to try and
+figure out how I can do like a course
+under you wherever you're teaching maybe
+you can recommend me uh to the college
+to give me a seat so I can attend some
+lectures but I'd love to you can do
+better uh the 2021 edition of my deep
+learning course yeah is fully available
+on the internet for free it's all on
+YouTube all the problems all the um the
+uh homework and everything I feel like
+I'm going back to old school I feel like
+being in front of you and learning first
+person has a innate value of its own so
+I'll I'll try and do this and and that
+wonderful thank you so much Yan for
+doing this thank you pleasure real
+pleasure thank you that was fun that was
+fun yeah you didn't get
+bored
+no you ask you ask your professor to
+speak like you
+know that's the
+job but I I guess like when you're
+talking to people who know so much
+lesser than you it can't be fun all the
+time
+it's it's an art uh I mean I I don't I
+don't claim to be I don't claim to be
+particularly good at it but I I try hard
+so you know trying to kind of simplify
+Concepts and stuff like that yeah so but
+I think we needed it because so many
+Indians are speaking about AI but so few
+of us actually understand what went
+behind where we are oh that's true
+across the world it's not just
+India in fact I think it's kind of the
+opposite in India there like way more
+people who are who are kind of educating
+themselves like particularly among the
+young people so we wanted to focus today
+on that like just to get to telling our
+people a lot of young people watch this
+young bright people yeah how we got to
+be where we are today the most questions
+around that yeah I think it's important
+because it
+it it helps convince people that uh they
+can do it regardless of what yeah like
+you know I went to I studed Engineering
+in France but I didn't go to like one of
+the top you know equivalent League or
+anything I went to like in regular
+school right
+um um and I didn't do my PhD with a
+famous person and you know all that
+stuff and I was in France I was writing
+papers in French that were terrible
+nobody read but you know kind of managed
+to do something and and people are are
+sometimes are telling me like
+you're you know you help convince me
+that I could do something impactful even
+though I didn't go to Harvard or MIT or
+stf thank you

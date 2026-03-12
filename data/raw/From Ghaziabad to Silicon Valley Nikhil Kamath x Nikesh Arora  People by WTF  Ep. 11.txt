@@ -1,0 +1,2910 @@
+Nikesh Arora.
+Oh, boy, where do we begin?
+A boy from Ghaziabad
+who's now one of the highest-paid execs
+in the world.
+That's Nikesh for you.
+He's collected degrees
+like people collect Pokémon.
+Constantly pivoted
+way before it was cool,
+worked at Google after landing
+an accidental interview with Larry Page,
+then at SoftBank,
+and now leads Palo Alto Networks.
+A big name in cybersecurity.
+Let's find out how not sticking to a lane
+worked in his favour.
+Hi, Nikesh, thank you for doing this.
+My pleasure.
+I don't know where to begin.
+There's no fixed agenda
+for today or not...
+there isn't one particular thing
+I want out.
+Our audience is largely
+the entrepreneur...
+wannabe entrepreneur crowd in India.
+And we meet people
+who have gone down their path,
+been really successful, such as yourself,
+and try to tell them what they can learn
+from someone like you.
+Yeah, from either doing what I did
+or not doing what I did.
+-Yeah.
+-Perfect. All right.
+Sometimes, we find not doing what someone
+did is as useful, if not more.
+For sure. For sure.
+So, maybe we can begin by you telling us
+a bit about yourself,
+and we start from there.
+Where would you like to start?
+-Childhood. [laughs]
+-Ah.
+As you know, I grew up in India.
+My father was in the Indian Air Force.
+So, you know,
+you grow up in the Indian Air Force,
+you grow up with just enough means
+so you have a good life,
+but no different than every other person
+who goes up in India
+where you have to be resourceful,
+you have to be...
+you have to work hard
+to get above the crowd, and, uh...
+and sort of make something
+out of your life.
+And in that context,
+and my parents are amazing.
+My father passed away a few years ago.
+But he worked in the Air Force
+for his entire life.
+He was a lawyer.
+And his job
+was to solve thorny legal issues,
+both within and without.
+And you know,
+when you live in a family like that,
+where, every day,
+he's trying to get people
+to do the right thing,
+sort of the...
+You absorb the implicit culture of...
+the high integrity you see around you.
+So, you know, I have my father
+to thank for a life of integrity.
+Where he had to make decisions
+against all odds.
+He had to make decisions
+about lots of things where, you know,
+it was crystal clear for him,
+given that the role he has
+was always to pick the right side.
+That somehow...
+That became the mantra in our family,
+that he always had to do the right thing
+irrespective of the cost,
+et cetera, et cetera.
+You get that from your father.
+And my mother, you know,
+rare for her time,
+she's a master's in math and Sanskrit,
+so she was very...
+Along the lines of that education empowers
+and whatever you do, you have to be smart,
+you have to be well-read,
+and you have to do that.
+And she provided
+the nurturing element in the family.
+So, I was very blessed.
+The difference is,
+when you work in the Air Force,
+you move around every few years.
+So, it brings a sense of impermanence,
+it brings a sense of instability, perhaps,
+and the question is,
+what do you make out of it?
+So, on the flip side,
+you get to adapt to many situations
+and you can pick up your bags and move,
+because you've done that naturally
+over your life.
+So, those are some of the, I'd say...
+the key building blocks
+of one's personality as you grow up.
+Right.
+And how did the transition
+from growing up in Ghaziabad
+and going to school in Delhi,
+to where you sit today?
+I must say,
+you have a very pretty office...
+[laughs]
+...but everybody seems
+really scared of you.
+Ah, that's interesting.
+How did you pick that up?
+Before you arrived, people were like,
+"He's coming now,
+he's coming now, he's coming now."
+And they really were freaking out.
+Like, I've been to some secure buildings
+in my life,
+but you have some crazy amount
+of security going on here as well.
+Well, remember,
+we're in the security business.
+So, we're a trophy company
+to break the security defenses off.
+Because, as you can imagine,
+the security industry
+comes from an underpinning
+where it was, you know...
+Your perception
+of a security person generally
+is that if you think back a few years ago,
+is that kid sitting
+in his parents' basement
+playing Call of Duty on the side,
+hacking into the FBI computers
+and showing, "Look, I can do it."
+There's no economic motivation.
+There's more of a trophy kill.
+And that sort of feeling persists
+in the security industry.
+If you go after somebody,
+go after the people who are entrusted
+with protecting everybody else.
+So we do have to have
+more security than you expect.
+Has it happened?
+Uh, there is a general belief
+that most security companies,
+now infrastructure software companies,
+are constantly attacked.
+Right.
+Because, you know, ten, 15 years ago,
+the philosophy was...
+"You wanted something,
+you went after it, and you got it."
+You know, you want to hack
+into Nikhil's life,
+you go hack Nikhil,
+you find out what he wants.
+Then they said,
+"Well, that's a lot of work.
+Why don't we just go hack
+into a Gmail platform, an email platform?
+And then I can go and get
+whatever I want from whoever."
+So, people started going towards
+what you call supply chain attacks.
+You want to offer
+a big piece of infrastructure.
+And whoever was utilising
+that piece of infrastructure
+would then be fair game.
+So, you know, we joke in our industry,
+hacking has gone from a hobby
+to a profession.
+When you do something professionally,
+you do it right.
+So, yeah, it happens a lot.
+Is that because the incentives
+have gotten more aligned now?
+Well, if you think about it,
+there is something to the tune
+of north of $10 billion
+that is either extorted or ransomwared
+or taken from individuals
+in some sort of Ponzi scheme,
+which is based on digital hacking.
+-Every year?
+-Yeah.
+So, it's a lot of money.
+But that doesn't sound
+like an earth-shattering problem,
+that amount of money.
+Well, it's an earth-shattering problem,
+because think about it.
+It's still the Wild West, right?
+Because there is no recourse.
+Think about it.
+It's the lowest conviction vertical
+-in the bad actor industry.
+-Right.
+You can hack somebody
+from 10,000-5,000 miles away.
+You can get paid
+in some version of cryptocurrency
+and you're untraceable.
+So, it's much better than--
+remember the old westerns you would watch
+and you'd have to wear your hat
+and carry your guns
+and there's a 50% probability
+you'll get shot by somebody.
+In this case, it's pretty low impact.
+If Palo Alto is a $100 billion company,
+I would have assumed that...
+this is a much bigger industry as well.
+-It's getting bigger every year.
+-Right.
+But don't forget there's
+the economic incentive part of it.
+There's the intellectual property
+part of it,
+there's the nation-state
+part of it, right?
+We think most future wars, as you can see,
+the current wars that are in play
+are part cyber wars
+and part technology wars.
+People are trying to figure out
+the lowest cost way
+to create instability, chaos,
+and destruction of life and property
+without it costing them too much.
+And the first thing that happened
+in the Russia-Ukraine conflict
+was the entire
+logistics systems of Ukraine
+were taken down by hackers,
+because that was the way
+they could destabilise
+and immobilise the army of Ukraine.
+It wasn't a bomb that landed.
+It was a cyberattack.
+So you can see that the future norm
+as it relates to creating instability,
+taking control, stealing property,
+both intellectual or economic,
+is going to be sort of eased by cyber.
+I have a private equity fund, Nikesh,
+and I have been trying to figure out
+what industry might thrive in ten years
+post all the disruption of today.
+I'm sure disruptions
+will continue to come by,
+but how does cybersecurity change?
+And as an investor
+who's looking to get allocation,
+if I have a broad portfolio,
+what percentage of that do you think
+should go into something
+like cybersecurity?
+If you analyse cybersecurity,
+it didn't exist as an industry
+sub-vertical of significance
+until about 25 years ago.
+-Mm-hmm.
+-If you go back,
+I was at Benares
+doing a commencement address at BHU.
+And I was reflecting
+when I went to school there in '89,
+we had one ICL-1904.
+There was nothing called an iPhone.
+And that computer was 5,000 times
+-less powerful than one iPhone.
+-Right.
+So, in what was then 30 years,
+you've got 5,000 times the power
+in the thing you carry in our back pocket.
+But it was about 2005, I think,
+was when we started getting
+the app economy
+and everything started getting connected.
+So that was not even 20 years ago.
+Twenty years ago,
+we were not worried about getting hacked,
+because most of us were
+using our phones to call somebody
+-or at best send an old-form text.
+-Right.
+So, if you believe
+the entire connectivity revolution
+has explored in the last 20 years
+and continues
+to, sort of, grow exponentially
+with where we are.
+In our parlance, we call that,
+"The attack surface continues to expand."
+You can attack 5 billion online people
+around the world.
+You can attack every company.
+In the past, no company was connected
+to their consumers.
+If you believe the attack surface
+continues to expand exponentially
+and every service becomes
+somewhat useless without connectivity.
+Your car has to be connected.
+If you can't connect to your car,
+you can't get into your Waymo,
+and tomorrow, I'm pretty sure
+robotic arms will be connected
+and humanoids will be connected, so...
+So if the attack surface
+continues to expand,
+-the demand function is secured.
+-Right.
+Now the question is,
+can you satisfy the demand function
+with the right technology,
+and that becomes
+the cybersecurity industry?
+So, I don't know
+how it will compare to other industries,
+but I'm pretty sure it is a gift
+that'll keep on giving.
+Will it come down to who has more compute
+and by virtue of that,
+they can hack into something?
+If I had more compute than Palo Alto,
+for example,
+would it be possible for me
+to hack into it?
+So there is that prevailing theory
+that when quantum comes about,
+it will break every key, which is true.
+It will break every key
+that is there today.
+Can you explain how that is?
+I read that, but I couldn't understand,
+'cause I'm a totally non-technical person.
+So the way it works is,
+when you communicate with something else
+and you're trying to send data
+in an encrypted fashion,
+I encrypt it, I send it to you,
+we decrypt it to your end
+so nobody intercept it and steal it,
+or observe it or read it, right?
+Now, the industry has a protocol where...
+there is a protocol which defines
+how to decrypt, how to share keys.
+So you have the key that is required
+to decrypt the communication
+I send to you.
+Those keys are effectively codified
+in such a way
+that it's hard to break them,
+but it will require a lot of compute
+to break them.
+But with the arrival of quantum,
+they will be able to break those keys
+in seconds or minutes as compared to days.
+-Because quantum has more computing power.
+-So much computer power, right?
+So if you can do that,
+you need a whole new set of keys.
+Or you need more complicated--
+You need keys that quantum can't break,
+which means you need
+a new set of protocols to define it.
+So there is this prevailing theory
+that when quantum comes about,
+it'll break today's encryption.
+So, everything will be decryptable,
+and hence, observable,
+and hence, could lead to potential hacks.
+Now, the sad truth is,
+most hacks today
+are way less sophisticated than that.
+Typically, there are human beings
+who make errors in configuration.
+Human beings who click on the wrong email
+that comes to you.
+Human beings who leave their password
+on a yellow sticky
+on the side of the computer
+to make it easy for people to get into.
+So, I think from that perspective,
+we have enough of a crisis right now.
+We don't need yet another one
+from a compute perspective.
+But I think on the flip side,
+the possibility of this notion of AI,
+which will start figuring out on the fly
+where the gaps, misconfigurations,
+or the errors are,
+and be able to be much more intelligent
+at providing more real-time protection.
+So I think the opportunity
+is gonna be more
+in AI-based analytics
+and real-time protection to start with
+than just throwing more computers
+at the problem.
+So, from three lens,
+as an investor, as an individual,
+and speaking to the people
+who are starting small enterprises
+across the world...
+As an investor,
+if I want exposure to cybersecurity,
+how should I look at it?
+Like, what should I look out for
+in a company?
+If you're looking at a startup category,
+the most likely categories
+which we'll see outsized returns
+are categories where a new attack vector
+is being born.
+And there are many ideas
+about how to secure the attack vector,
+and many people are experimenting.
+Take the current example of AI.
+We all talk about AI,
+and we were just getting our arms
+around ChatGPT and LLMs,
+and, suddenly, you have coding assistants.
+And now, we're talking about agentic AI,
+and all these things that are out there.
+I don't think there is a general agreement
+on what agentic AI means in the world.
+Right now, I was talking to somebody
+this morning,
+and I was thinking, to me,
+my manifestation of agentic AI
+is a Waymo in San Francisco.
+You get in a Waymo,
+you let the car decide where to take you,
+and you let the car decide
+when to brake, when to turn.
+That's giving agency to the car,
+-hence it becomes agentic AI.
+-Right.
+Now, I don't think most enterprises
+or human beings
+are ready to give an AI agent control.
+As simple things like, you know--
+If I told you it's easy to imagine that,
+if you were coming to San Francisco,
+you'll ask your favourite AI bot
+or LLM or agent
+to find you a nice restaurant
+where you like to eat,
+it'll understand your preferences
+and know who your friends are and say,
+"I want to eat with my two friends,
+I want to eat a nice Indian meal,
+find me a restaurant
+which is more likely my taste
+-and make the reservation."
+-Mm-hmm.
+Now, if you trust AI
+to do all of that for you
+and show up blindly over there,
+that would be called giving agency
+to that agent to let it decide for you.
+I don't think we're ready as human beings
+to let even that basic...
+to handle that basic agency.
+So, sort of a long way of saying that,
+if you're building technology,
+think about those scenarios.
+Think of a scenario
+that if Nikhil gave agency to an agent
+and somebody took over that agent,
+what chaos would they be able to cause?
+And this will happen when AI moves from...
+In many ways for a lot of people,
+including me,
+it's very question-and-answer right now.
+You're talking about when it is able to do
+more sequential tasks in a way.
+Able to do that.
+And everybody's trying
+to solve for that, right?
+Yes. So, there's two elements, right?
+There's the planning element
+and the doing element.
+-Right.
+-Today, it does a task.
+It booked me an airline ticket,
+when do you want to go,
+it's kind of like writing a piece of code.
+-Yeah.
+-But it says, "Find the best option..."
+-Yeah.
+-"...Infer what the best option is.
+Figure out what's most convenient to me.
+Figure out the time
+I should be flying from here.
+Figure out that allows me
+to get to the right time,
+based on my calendar
+or whatever you have here."
+Something is planning this.
+That inference engine is what everybody's
+trying to build for every use case.
+That inference engine, then we connect--
+Let's call it to a do engine.
+And if you can infer and do,
+that becomes your agent.
+Yeah.
+Now, the good news is,
+that's going to be fun.
+Exciting news for cybersecurity
+is that, once that happens,
+I don't have to bother you.
+I can just take over your agent
+and cause chaos.
+Right, right.
+Now, you can take a simple agent,
+making restaurant reservations,
+which is... I'd call it non-destructive,
+the worst thing out of it is a bad meal.
+You can also make it
+more complicated and say,
+you know, it can change the entire
+configuration of my firewall.
+It can change the entire configuration
+of the heating-cooling system of Palo Alto
+because we have an agent
+which checks climate
+and understands how to redo
+the entire heat settings for the company.
+So, there are all kinds
+of different examples
+from control systems
+to industrial systems,
+to robotic systems you can think of,
+which, eventually, we'll want agency.
+And they'll become an interesting place
+for bad actors to try and take control
+because those agents will allow you
+to act on behalf of whoever's agent
+you've taken over.
+So, if you have, say,
+a series of companies
+who are building these solutions,
+they'd be very interesting
+because it's an unknown problem,
+it's a field which has not been
+fully explored,
+there is no resident expert today,
+there's no resident install base,
+so it's sort of, you know,
+blue sky problem.
+And startup founders are notoriously good
+at trying to attack those problems,
+solve them.
+Either they'll build
+a big company out of it
+or they'll get bought out by somebody
+who wants to solve their problem.
+I'm working with this company here
+while I'm here.
+And they were demoing
+their new browser yesterday.
+Yes.
+And if you had many tabs open,
+it could do a few things
+which seemed very sequential in nature.
+-Agentic browser.
+-Yeah.
+That's almost here, right?
+Because that was a live product
+they've not launched yet,
+but it seems to be getting
+really, really close.
+Yeah. I think the idea
+of automated tasks in sequence
+has been around for a while.
+People have called it a playbook.
+People have called it a workflow.
+I think the question really becomes is,
+when will you let
+a planning agent control it
+versus you control it yourself?
+-Interesting.
+-For a meaningful task.
+You know, you can say
+I can do a three-step task.
+I can search the web.
+I can find you which websites
+are selling great shoes.
+I can make a catalogue of them.
+I can sort them by size.
+I can marry that with your preferences
+which I have in memory and sort.
+Those are all planned tasks.
+You actually wrote the plan.
+Something executed your plan.
+If I give you a nebulous problem saying,
+"Find the best shoe for me
+that I should wear tomorrow."
+There's too many subjective decisions
+that need to be made in that process.
+Which means your planning
+or inferencing brain has to start working.
+Right.
+Which is creating certainty
+from a lot of nebulous data.
+I think that's the holy grail.
+And when you can start getting
+really good inferencing
+and planning agents,
+then it starts to mimic
+human intelligence.
+So as an individual,
+as an individual investor,
+if I were to look at a new vector--
+A lot of people do say
+that self-driving cars
+are not really the best example of AI.
+At least generative learning.
+Yeah, well, look.
+AI was traditionally known--
+was used to be machine learning, right?
+Which is the idea
+that you could algorithmically write code
+and decipher things.
+'Cause they're not really predicting
+what will come in the road
+or what will happen next, right?
+They're more like...
+Well, they are acting based on information
+that they're presented with
+in the instance.
+And over time,
+you go from predictable actions
+to unpredictable situations
+and figuring out...
+inferencing what you do in that scenario.
+So there is a little bit
+of inferencing going on,
+but there will be more inferencing
+going on.
+And generative
+is a whole different conversation, right?
+So that's good. That's useful.
+As an investor,
+I can look for new vectors,
+new surfaces where cybersecurity
+might be a thing and invest in that.
+Invest in small companies
+which might want to build a niche
+specifically in one thing.
+I think if you step back
+and look at the broader impact of AI,
+Mm-hmm.
+You know, I think a lot of industries
+will get upended in the next 10 years.
+If you take the whole notion
+of product development,
+you have a trading platform
+of sorts, right?
+Mm-hmm.
+A lot of your trading platform,
+in my understanding,
+this is where you're the expert
+and I'll posit something,
+is you're helping us consumers
+interact with large data behind it.
+You're making it easy.
+You're creating forms, workflow.
+And eventually, you're consummating
+transactions on my behalf.
+-Yeah.
+-But the entire UI is designed
+to make me understand
+and to get the right inputs from me
+so you can actually understand
+what I'm doing.
+I could pick a certain ticker.
+I can choose a certain amount of shares.
+I can put it in there. I can buy, sell.
+If you have call options,
+I can, you know, whatever.
+So, like, a typical trading platform.
+If you look at the world,
+75% of product development in technology
+is human beings teaching consumers
+how to interact with back-end
+engineering databases and transactions.
+-Yeah.
+-Whether it's flight tickets,
+-whether it's trading.
+-Yeah.
+If I have a smart enough capability
+through a combination of generative AI
+and workflow automation,
+where I can talk to this
+without requiring UI.
+Which we can imagine, right?
+We can imagine
+if I have an inference engine,
+it could say,
+"Hey, take the position I had yesterday
+that I bought, sell it,
+take half the profits and reinvest them.
+Between $100 and $110 in,
+you know, Reliance
+or whatever your favourite stock is.
+Robinhood, whatever you have, right?
+You and I can imagine
+how that query or that natural language...
+You can literally-- In your brain,
+you're planning the steps
+that are required in your product
+to go execute that transaction.
+But it doesn't happen today.
+Mm-hmm.
+In the future,
+it's effectively a planning engine,
+planning the tasks,
+calling the four tasks, saying,
+"Sell yesterday's position,
+take the proceeds,
+understand how many shares I can buy.
+Take half of them, buy those many shares,
+between $100 and $110."
+Go back to the user and say,
+"I have 100 shares for you of this,
+and the remaining cash
+is in your balance."
+We can actually
+write the steps in our head
+of that transaction.
+The question is,
+do I have to code all of that
+and take every scenario and do it?
+Or in the future,
+there's an agentic AI or an AI interface
+that allows you to do this
+in this inference engine.
+Which means your entire process
+of product development at Zerodha
+-is going to change.
+-Yeah.
+Take that and multiply that
+across every user experience
+that is out there.
+Take a different example.
+Today, a lot of applications are designed
+genetically for everyone.
+Right?
+It's kind of like very little
+user preference or knowledge.
+It's kind of marginal, right?
+Like, you little bit understand
+what you know.
+But if you can have
+full memory of my preferences
+and you're designing an application,
+whether it's a nutrition app, right?
+You go to a nutrition app today,
+it tells you you have to pick
+a whole bunch of stuff
+by the time you're done filling forms.
+Five pages later,
+it tells you, "Eat less carbs."
+Thank you very much, right?
+Or gives you some advice.
+Over time, I think applications
+will become applications for one.
+-Yeah.
+-Instead of generic applications.
+So I think there's a lot of implications
+of AI in the technology world
+from a product development perspective.
+AI in the enterprise software world
+where I think analytic products will die.
+It'll all be products
+that help you do something.
+There's a huge debate.
+I mean, look at the world of advertising.
+The whole notion of digital advertising,
+which is about a $450-billion industry,
+is to encourage you and me
+to buy something or transact.
+People buy ads on the Internet
+so that, eventually,
+you and I will either go trade
+or you and I will go buy something.
+But if our agents
+start interacting on our behalf
+and they start assessing
+what the right answers are,
+what is the role of advertising
+in the future?
+So, there's just so many implications
+across the entire technology landscape.
+I don't think your investor brain
+should be worried about
+one particular cybersecurity vector
+in investing.
+Right.
+The interface in businesses like us,
+I agree with you 100%
+will become irrelevant.
+If I could use the analogy of, say,
+cryptocurrency and the blockchain,
+I think where people like us come in is...
+we're essentially
+not a company of interface
+but a company with a regulatory moat.
+-You're what I call a system of record.
+-Yeah.
+You have track of how many shares I own.
+You're a system of record.
+If you were to vanish tomorrow,
+I wouldn't know what my net worth is
+if I was a Zerodha customer.
+So, yeah, so you're a system of record.
+And system of records will stay.
+But the entire product development process
+of how I interface
+with the system of record will change.
+System of record will stay
+when there is regulation behind it
+which mandates them to stay?
+Or will the same apply
+to a technology like blockchain
+where there might not be a regulator
+mandating the system of record?
+It doesn't have to be regulated, right?
+A system of record is almost like,
+I would say,
+something that is built over time.
+-Right.
+-Right?
+Either it's mandated by regulation
+or mandated by enterprises.
+I'm pretty sure you and I
+both have payroll systems,
+which are systems of record.
+They're not mandated by regulation.
+But you have a payroll system.
+If it goes away tomorrow,
+you won't know how much you paid someone
+and how much you have to pay them.
+The whole mode of interaction
+of me with your payroll system
+may be fundamentally different.
+And you're head of HR,
+and that might be different.
+But the system of record will stay.
+Because it's required as part
+of your business process to exist.
+Now, a system of record
+could also be there
+purely because of the fact
+that I have great market share.
+Hence, I have the record
+of that data somewhere
+and it's too painful for you
+to replace that system of record.
+Even though it's not mandated
+by regulation,
+it just happens to be
+that it was where it is.
+So, there is a prevailing theory
+that the big will become bigger
+because they are...
+If they are smart enough and fast enough
+and agile enough
+to be able to change
+the mode of interaction
+with the system of record.
+And I think that's going to make
+a lot of enterprise software
+rethink how it's built, how it's run,
+and how it's managed.
+So, if AI becomes democratic...
+Democratic in the means
+that everybody evolves to a point
+where everybody is like each other,
+how big does the role of a brand
+play in something like this?
+Why do I pick A over B?
+Is it just utilitarian?
+Or is there a brand play involved?
+Well, I thought you were asking
+a societal question,
+which is a much harder question.
+-I'll stick with--
+-I'll come to that next time.
+I'll stick with the brand question
+and review it now.
+I think, look,
+brands are correlated experiences.
+-Right.
+-And trust and perception, right?
+You know, why do you spend
+a lot more money for a Cartier bracelet
+for your wife or your girlfriend
+than you would for something
+made by a local jeweller?
+The raw material is the same.
+The costs are pretty much the same,
+but you pay more for the perception,
+for the brand, for the experience,
+the trust, the loyalty.
+So, I think the brand encompasses
+a lot more than the raw material
+from that perspective.
+I don't know how democratisation of AI
+changes that.
+Let's take a look at it
+from a slightly different angle.
+You know, the way I see...
+This is partly
+the societal comment, right?
+The things that Google came about...
+If you go historically, historically,
+information was power, right?
+The caste system is based on power,
+which is basically fundamentally based
+on information.
+The highest caste was on the information
+and dictated how society should behave.
+And look, you know, historically,
+a lot of power has been
+because of an information disadvantage
+or asymmetry.
+The Internet came about,
+information asymmetry
+began to vanish, right?
+The guy who had the newspaper in New Delhi
+was no longer smarter than the guy
+in Varanasi next to me,
+who got the newspaper a day late.
+Remember, there are places in India
+that got the newspaper a day late.
+But today, with the Internet,
+there's instant access.
+So, democratising information allows
+a whole series of applications
+and experiences to be built.
+The question is,
+does AI democratise intelligence?
+Depending on the definition
+of intelligence.
+Well, if you listen
+to what Sam Altman is telling you
+and all these wonderful people
+building AI models,
+they're talking about AGI or, you know,
+artificial general intelligence,
+where these models are gonna be able
+to mimic the human brain,
+or be smarter
+because they have infinite memory,
+infinite pattern recognition.
+Our brains are restricted by our capacity,
+but this thing is not.
+So, let's assume for a second,
+without taking the draconian outcome,
+let's just assume
+that it normalises intelligence.
+And what I mean
+by normalising intelligence is,
+if I call Zerodha, I'm sure you have
+a customer service team, right?
+There are, let's say there are
+five different people,
+they have different capabilities,
+different understanding.
+I could get a marginally different answer
+from one of those five people if I called,
+depending on their intelligence,
+if everything was not codified
+by a system check.
+I'm guessing it's not always,
+because there's a human involved.
+Now, we're saying AI is gonna get so good
+that it will make that experience
+consistent on a constant basis.
+So, it is just normalised intelligence
+across five people in your team,
+or maybe 5,000 people in your team.
+So, when intelligence gets normalised,
+what are the consequences of that?
+Then nobody's smarter
+than the other person.
+Then what is the differentiation?
+The differentiation is solving
+the unknown problem.
+How do we articulate
+what the unknown problem is?
+I would assume that humans
+from the beginning of time
+have wanted to differentiate
+through many different means.
+Why do we give Nobel Prizes?
+We give Nobel Prizes to people
+who solve unknown problems.
+I'm sure there's a lot more
+unknown problems in the world
+that we haven't touched
+or scratched the surface of,
+which have to be solved.
+There's a combination of, you know,
+the question is,
+does human intelligence
+learn how to manage
+all this democratised intelligence,
+or is AGI gonna manage
+this democratised intelligence?
+You and I are just gonna be
+drinking in the pub
+or hanging out at the bar,
+and they're saying, "Jeez,
+everything is being done by AGI and AI."
+So, I don't know the answer
+to that question.
+But I think the bigger question is,
+like we saw
+the democratisation of information,
+this is gonna democratise intelligence.
+And when intelligence gets democratised,
+what are the business implications,
+societal implications of that?
+Nobody's smarter than the other, right?
+Like, you know how to put a rocket
+in the air? I do, too.
+Let me talk to my pet agent.
+It knows the answer.
+Does capital become the mode then?
+Incumbent people with capital?
+I did say the big get bigger, right?
+As long as they play their cards right.
+Because they have more compute power
+in that world?
+No, I think it's not just capital.
+You know,
+there is a debate today that, uh...
+all the known information
+that is in the public domain
+has already been used to train AI.
+Right? If you hear the debates,
+all these models are being trained
+by all the information out there.
+I think there are ten times
+more information in private domains
+which is not available
+in the public domain.
+All the drug discovery data,
+which is sitting in every drug company
+that has made any drug in the past...
+it's all proprietary data, right?
+All the data used to build NVIDIA chips
+or Intel chips, AMD, are all proprietary.
+Maybe quantum computing changes that,
+and everything comes online.
+I don't think quantum computing
+changes that.
+I think the question becomes,
+at what point in time
+do these private databases
+start being made available
+and training AI for specific tasks?
+Could I design
+the best chip-designing model?
+Of course I could, if I had all the data
+that Intel has and NVIDIA has.
+There's no human being
+who has it in their head.
+But possibly some version of AI
+can understand patterns
+and build that knowledge base.
+But once it builds that knowledge base,
+can it use an inference engine
+to solve the unknown problem?
+Right.
+Today, we rely on human intelligence
+to understand everything,
+the art of the possible.
+And humans have to ideate and say,
+"Well, how do I solve the unknown?
+Because now I understand the known."
+But it's a high bar.
+You have to go to, I don't know,
+how many years of PhD studies
+do you have to go to?
+How many research papers
+do you have to write?
+To get to a point where you say,
+"I think I have a good understanding
+of this sliver of the problem
+I'm trying to solve."
+But tomorrow, you say, "Guess what?
+That's in your Edge model
+sitting in your pocket.
+It's already as smart
+as all the intelligence in the world
+that is being used
+to solve this particular domain.
+Now, work from there.
+So, I think that's the bigger debate.
+The bigger...
+The opportunity, or the scary part,
+is what happens when this thing gets smart
+and we start democratising intelligence.
+I mean, I gave you the example
+of going to Varanasi
+and saying that was
+a one five-thousandth time
+less powerful computer.
+In 30 years, we were able to build
+a 5,000 times powerful computer.
+-Right.
+-Imagine if the state of AI,
+which will possibly or potentially
+move exponentially faster.
+AI is a thousand times smarter
+in five years.
+Let alone 5,000 times.
+What are the odds it's possible?
+I love how you're explaining this.
+[both laugh]
+Would you like to prophesize
+how the world might look in ten years?
+-Just to give you a guess?
+-No.
+No, I don't know if prophesizing
+is to any value, right?
+I think you have to take
+an optimistic outlook towards it.
+You can prophesize
+a draconian set of outcomes.
+You can prophesize
+an optimistic set of outcomes.
+We all were...
+We've all lived through this
+in recent past
+where we had a pandemic.
+And if you looked at people
+prophesizing the pandemic,
+you said the pandemic
+is going to persist for five years.
+I'm pretty sure there would be
+as many doomsday prophecies
+as there were possibly
+more than optimistic prophecies.
+But look around you.
+They're very extremely resilient
+to society.
+I think we forget historical lessons
+and people will say,
+"Oh, my God, what's going to happen?
+AI is going to take my job.
+What's it going to do?"
+Well, guess what?
+I don't see anybody
+buying picks and shovels
+and digging up the ground to plant wheat.
+Things have happened
+and we all found something else to do.
+So, I'm sure we'll find things to do.
+We'll find ways to propel society further.
+Right?
+And I'm sure things that get solved easily
+will create new opportunities
+that we haven't thought of.
+I was talking to one of our private equity
+common friends
+and he seemed to think
+that the models, the language models,
+will become like the device,
+like the iPhone today.
+Mm-hmm.
+And the real marketplace
+is going to be what gets built on top.
+Do you suspect that to be true?
+Yeah, I have my own version
+of that interpretation.
+I think it's broadly consistent.
+And the way I see it is that...
+What you're getting in the form
+of a model or AI
+is the equivalence of a brain, right?
+The early version of the brain
+had parroting capability.
+It could read everything in the world
+and repeat it to you.
+Over time, it built pattern recognition.
+Over time, it's building some judgment
+as based on pattern recognition.
+What is good? What is bad?
+What is right? What is wrong?
+Over time, as you feed it more,
+it's starting to get PhDs
+and starting to pass the bar
+and starting to get smart enough to,
+you know...
+So it knows
+the entire world's information.
+Your problem set is known.
+Your answer set is known.
+It's able to answer the questions.
+It's able to get smarter and smarter.
+Now, given the breakneck speed
+that you're seeing
+the evolution of models,
+they're getting smarter and smarter.
+And there's sort of an arms race,
+no pun intended, between all these people.
+And, yes, so will people build
+smarter and smarter
+and bigger and bigger brains? Yes.
+But if in your company at Zerodha
+or at Palo Alto Networks,
+we said,
+"Hey, here's a really smart person."
+-Mm-hmm.
+-"They have the best brain in the world."
+Eventually, you have to adapt that brain
+to the problem you're solving.
+Right?
+That's the art of building
+something on top.
+That's the art of creating
+a wrapper around that brain
+and applying it to something.
+Could I take the smartest brain? I could.
+I have to teach it everything about drugs.
+And say, the problem you're trying
+to solve is to solve cancer.
+Solve the problem.
+But it requires treating that brain,
+training that brain,
+putting guardrails around the brain,
+making sure the same brain
+that can solve cancer
+can also cause cancer.
+It's smart enough, so you gotta figure out
+how to apply that to goods.
+So, I think the act of wrapping
+these models or brains
+with useful things that we want it to do
+will be where the art will be,
+and which is what I think
+our mutual friend is talking about,
+building applications
+around them, perhaps.
+As an investor, better use of my dollar
+to be building a wrapper on a brain
+or trying to secure the brain?
+Well, clearly...
+the trying to secure the brain,
+you're asking my question.
+I was just trying to still stay
+in the philosophical part of it.
+Look, I think everybody
+who is solving a problem,
+necessary or unnecessary, right?
+The application, some people
+are solving necessary problems,
+some people are solving
+unnecessary problems.
+We'll need more social media
+and social applications.
+Possibly not,
+but somebody is trying to solve it.
+I think everybody is going to see
+how they can apply this brain
+towards solving their specific problem.
+And as an investor,
+a lot bigger share shifts will happen
+in what is, I'll say,
+a stapler ecosystem for now.
+A lot of people will lose share,
+a lot of people will gain share
+depending on how they use the brain
+to solve the problem.
+Which is what happened in the last
+technological inflection, right?
+Why does Amazon exist?
+They used the technology inflection
+of the Internet and connectivity
+to solve the known problem differently
+and caused a share shift between
+traditional retail and today, right?
+Why did Google exist?
+Because it shifted traditional advertising
+and online advertising
+because it used the inflection point
+of the Internet and mobility, et cetera,
+to cause that to happen.
+So the question is, or the point is,
+people will use this technology inflection
+of democratisation of intelligence
+to create,
+to solve the same problem differently.
+And the ones
+who solve it differently faster,
+much more efficiently,
+lower friction, lower cost,
+better economic value, and better outcome,
+are gonna have a disproportionate
+share shift in their direction
+from legacy players.
+Now, if I had a dollar for every time
+I heard a legacy player saying,
+"I'm smart,
+this time, I'll figure it out."
+Then none of the new economy industry
+should exist and startups shouldn't exist.
+So, by definition,
+people will build better solutions,
+better mousetraps, and the idea--
+The opportunity for an investor
+has never been larger in that context
+than just focusing on securing the model.
+Which, look,
+which will not be non-lucrative,
+but it's almost securing the model--
+It's hard to discern which person
+is gonna secure the model better.
+It's easier, possibly,
+as an investor to say,
+take a human experience
+and say, "I get it."
+That experience
+can be fundamentally transformed
+by applying smarter,
+more intelligent stuff.
+And securing the model
+might not be so interesting
+if so many models get to the point
+where they're almost the same.
+Leave that to us. We'll take care of it.
+Another legacy incumbent saying,
+"We'll pick up this problem and solve it."
+Very interesting.
+So, that was from an investor's lens.
+Me as a young person starting a company,
+how do I look at cybersecurity?
+How do I-- What are the three things
+I have to do?
+Broadly starting a company or you just
+wanna start a cybersecurity company?
+No, no. Broadly starting a company.
+I'll come to starting
+a cybersecurity company in the end.
+Look, what's fascinating is...
+For the first time in my life,
+from a technology perspective,
+I'm seeking out
+young 23 or 25-year-old founders
+to learn from them.
+Normally, I'm the sage old man
+with white hair
+and people come to me and say,
+"Hey, can we talk about starting a company
+and how do you scale it?
+How do you make it bigger?
+How do you live a life like yours
+at Google, SoftBank, or Palo Alto?"
+Right now, I reached out
+to the founder of Windsurf.
+I reached out to the founder
+of ConSol.ai or Factory,
+and I'm sitting there
+and picking their brains.
+This morning, I was talking to the founder
+of an autonomous car company saying,
+"Tell me how this new world works.
+How do you see it?
+How is this AI going to impact it?
+How are you building a company
+which is so fundamentally different
+than mine?"
+Because I'm sitting there saying,
+"I might be legacy."
+Because technology is moving so fast
+and it's being done so differently.
+And I read about these companies
+which hit 100 million in ARR.
+Not that it's an achievement,
+but it's much faster than everybody else
+that's doing it.
+I see people who say--
+Oh, I was watching an exchange on X
+between two people saying,
+"Well, thank you.
+We built this feature
+in 72 hours and shipped it.
+It couldn't have been done
+between the two of our companies
+if you guys hadn't put
+your heart and soul to it.
+And oh, by the way,
+thanks to our coding agent."
+So I'm sitting there, saying,
+"The pace of innovation
+has fundamentally inflected."
+And I feel like
+I just don't wanna be sitting here
+gazing at my own navel saying,
+"Oh, my God, we've got this covered."
+So, it hasn't been more uncertain
+than today.
+Right.
+So, all I can advise people
+who are out there is...
+Teach us something
+because they've got it figured out.
+But more so, I think the wave
+of technology that is coming,
+is going to allow people
+to build businesses faster, more agility,
+a lower number of people,
+and fundamentally rethink them.
+And if you're not doing that,
+if your rethink is marginal,
+if you're looking for
+a 10, 20% improvement, don't bother,
+because things are about to move 10x.
+So, I think self-reflect on the idea.
+If your idea is not 10x-worthy,
+you're solving the wrong problem.
+I feel the exact same way.
+I've met a bunch of really bright kids
+every day for lunch and dinner
+the last week.
+And I just feel stupid.
+I'm like, that's why I'm here
+for longer than I was meant to.
+And I want to come back
+because I feel like, suddenly,
+this area has become some kind of a hub.
+It's fascinating.
+Two or three years ago...
+And it happens
+every four or five years, right?
+I moved here in 2009.
+I just moved because
+I was gonna be part of Google's team.
+And I moved here, at that point in time...
+the buzz was social.
+It was Snapchat and Facebook.
+And YouTube was going
+from strength to strength.
+And Instagram was getting bought
+and WhatsApp was getting bought.
+That was kind of the time
+in 2009-10ish timeframe.
+And then people said, "Oh, my God,
+this wave is coming to an end.
+What's gonna happen?"
+And, suddenly, the crypto wave arrived.
+Suddenly,
+everything was crypto around you.
+There was crypto, crypto,
+crypto, blockchain,
+a whole bunch of coins
+and a whole bunch of stuff.
+The SPAC wave.
+And again, people called
+the end of San Francisco,
+and said, "Oh, my God,
+it's a city you can't go to."
+And suddenly, it's the AI wave.
+AI companies out there
+buying up real estate
+in San Francisco and building businesses.
+And if you ask the world,
+where is the hub of AI?
+It seems to be here.
+Every AI model that is being built
+with a reason,
+except perhaps in China,
+is headquartered here.
+Do you think India
+should try and build a model?
+We are trying.
+We should.
+I think the question becomes,
+is the capex question.
+You know, we can talk about...
+I mean, you're much smarter
+about the Indian ecosystem
+than I will ever be.
+India has not shown a propensity
+for large capex projects
+with unclear returns.
+Perhaps it's the best way to say it.
+-Yeah.
+-Right?
+You can't walk around
+and raise $50 billion...
+and build two nuclear plants
+to fund AGI today,
+irrespective of who you are
+and irrespective of who your investors are
+from the Indian subcontinent.
+Yeah.
+And, you know, so that's where I think...
+The constraint there
+is the appetite for people
+to deploy large amounts of capital.
+I agree with you, but on the flip side,
+in a world which is getting
+increasingly fragmented
+on the geopolitical lens
+and tariffs and all of that,
+the question is also,
+if somebody turns off a tap
+that we have built so much upon,
+what happens then?
+Explain that.
+Like, let's say we have used a model
+based out of China as the base
+to a lot of stuff that we have worked on.
+And, one day, they shut it down
+and India doesn't have its own,
+what happens then?
+Look, there will always be
+the next version of the model.
+So, even if you were using one
+and they didn't give you access
+to the new one,
+then you have the less smarter model
+because the next one is smarter,
+faster, better, cheaper, right?
+So, that risk is constantly there.
+It's not just access
+to the current model that you have.
+One would hope that with the arms race
+we talked about,
+there's north of 10,000 models
+in a hugging phase,
+many of them open-source.
+So, at least there is prior art out there
+which allows you to experiment
+and play with it.
+But even when they open-source the model,
+they don't open-source the weights
+they have used.
+There are some models
+where you can modify weights.
+Look, I understand the value
+of having a frontier model of your own
+where you can control your own destiny.
+It comes at a high cost today.
+The question is-- Yes, we should.
+I mean, the unequivocal answer is,
+"Yes, we should in India."
+The question is,
+who has the financial capacity and desire
+to go deploy tens of billions
+to go fund that.
+And where is the talent to go do that?
+If both those conditions are met,
+yes, we should.
+And then you talk about power.
+Where is the gigawatts needed
+to go fund that training of the model?
+So, the other option is,
+you find models that are out there.
+Again, not attempting to prophesize,
+because we agreed
+we weren't going to do that.
+But there is hope
+that the current pace of development
+that is going on in the model world...
+Everybody wants access
+to various talent pools
+who can leverage those models
+because that creates market share.
+So, I'm hopeful that
+if geopolitical conditions
+don't get so bad
+that nobody is talking to each other,
+which, hopefully, will not arrive,
+there will always be the possibility
+of collaborating with a model
+somewhere in the world
+which will be willing to work
+in a part of the world
+which has 1.8 billion people,
+give or take.
+It's just 24, 23, 24%
+of the world's population.
+You'd want that model to be experimenting
+in that kind of environment
+with so many smart people,
+with such a large middle class,
+with so much progress ahead of it
+that it would be silly
+to ignore the needs of that market
+from a model provider perspective.
+And data of 1.5 billion people
+is equally appetising.
+That's right.
+Very interesting.
+Coming back to the cybersecurity question,
+you told me, as an investor,
+what niche I can look at, the verticals.
+You told me, as an entrepreneur,
+if I want to start a company,
+what are the things
+I should watch out for,
+what kind of cybersecurity company
+I should try and build.
+The last thing
+I wanted to ask you on AI is...
+somebody described it to me
+in this manner,
+that they said world output
+is about 100 trillion dollars.
+Let's assume 50% of that is in services.
+Even if AI is able to disrupt 10% of that,
+five trillion dollars,
+will justify all the money spent
+on infra and capex
+that has gone into the world of AI
+right now.
+If you were to have a dollar to invest
+into every AI company today,
+do you think it's overinflated?
+Do you think you'll make money in a decade
+at today's valuation?
+That's a hard call, right? Now...
+Normalising for execution.
+Some people will execute better
+than the others.
+Some people will be able to sustain
+better than the others.
+And as you know better than I do,
+in the world of businesses
+which are not making money...
+you...
+your survival is only guaranteed
+till the next fundraiser.
+-Yeah.
+-Right?
+So, if I had a dollar to give,
+and you said we'll only make money
+in ten years, the question is,
+can you sustain the fundraising
+through that period
+until you turn cash flow positive?
+Otherwise, we've seen companies
+which have gone away
+because they were not able
+to raise their next round
+or the round was so dilutive
+that nobody wanted to deal with it or...
+So, all those conditions notwithstanding,
+I think it's a bigger question
+from an economic value proposition
+you're asking.
+Is there enough there, there,
+here in the entire industry
+that it justifies
+what is being spent today?
+But without regard
+for which company you invest in.
+Let's take the company dynamics out.
+Look, private fascia, it...
+it seems seems to be
+the prevailing wisdom, right?
+The fact that people are raising money,
+their companies are raising money
+at $2 billion six months ago,
+raising money at $4 billion right now,
+is unprecedented.
+You've never heard that degree
+of development and conviction
+that is happening in the market today.
+So, clearly, there is a gold rush.
+Now, we've seen past gold rushes.
+So, I'll give you the answer in two parts.
+It's kind of like the...
+overestimating the short-term,
+underestimating the long-term answer.
+Which is-- I think the long-term trend
+points towards something
+like you hypothesised,
+that there is enough opportunity
+to eliminate redundancy,
+redundant work, repetitive tasks,
+and solving the same problem
+multiple times,
+which was never leverageable, right?
+You hire a consulting firm
+to do a project in company A,
+how many B, C, D, E, through Z
+are gonna pay the same amount of money
+to do the same project
+because there's no democratisation
+of intelligence.
+Intelligence is captive
+and is being sold one at a time.
+When it's democratised,
+everything has the same time,
+which means it lowers the cost
+to deliver it.
+So, if you apply that logic,
+the logic suggests that,
+yes, we can shave off
+a lot of inefficiency,
+a lot of increased economic value
+tremendously,
+which should justify this desire to invest
+in democratising intelligence,
+which should justify the fact
+that once this democratised intelligence
+is made available generally to all of us,
+we will find a way of creating
+more economic value
+because we'll get faster, higher quality,
+lower friction,
+and more competence/better output.
+Short term, it goes back
+to the execution questions
+as to which is the right one of these?
+Does it make sense?
+Is there enough economic value
+in the category
+that you're putting
+billions of dollars to work
+that it justifies the categories?
+I think all those questions,
+it could be a Robin Hood moment.
+It could be people taking from the rich
+and giving to the poor.
+I was having this conversation
+with someone last week.
+On how we can get India
+to be a lot more competitive.
+And we were trying to figure out why,
+on the scale of innovation,
+new ideas per se,
+not enough have been rooted
+from there in the past.
+We had this debate
+around a whole bunch of things, you know,
+budget for research in academia,
+stuff like that.
+But it seems to come down to one thing,
+that the risk capital available there,
+like you just said,
+a kid out of Stanford could get 20 million
+to go and build an idea.
+Actually, better still,
+a kid dropped out of Stanford.
+They have a higher chance.
+Yeah, I met like two dozen of them
+last night.
+I was telling them, the seniors
+who were just finishing college,
+I'm like, "There has been
+no better time for anyone
+to have graduated from Stanford
+than you guys.
+'Cause whatever you come up with,
+you'll get funded."
+That's been true every five years,
+by the way, but okay.
+You're telling us
+we're getting old, right?
+Yeah, yeah. But what do you think it is?
+What should India change?
+Is it risk capital?
+This debate comes up everywhere, right?
+-Yeah.
+-For the last 25 years,
+I've been asked, you know,
+"Why is there one Silicon Valley?
+And why are there not
+many Silicon Valleys in the world?"
+And you want to make Silicon Valley
+of India in Bangalore,
+or Israel is a Silicon Valley of...
+Sorry, yeah.
+Yeah, a Silicon Valley
+for cybersecurity, et cetera.
+I think it boils down
+to a combination of things.
+And I think it's hard
+to get the combination of things
+together in one place.
+Partly, it's sort of things
+like you identified,
+risk capital
+as part of talent and resources.
+It's part infrastructure,
+it's part availability, all of that.
+It's part ease of doing business
+and all those things
+sort of fit in the mix and you shake it.
+And, you know,
+a lot of that gets in there.
+I think it's...
+it's also partly
+the acceptance of failure.
+-Yeah.
+-Right?
+Culturally, I grew up there
+and you grew up there
+and maybe it's getting better now.
+Failure is not as easily accepted anywhere
+in the world but in Silicon Valley.
+There are founders here
+who've had companies fail
+and started a second company
+and third company.
+There are founders who've, you know,
+done something wrong,
+come back and started companies.
+And the market gives them
+the benefit of doubt
+and funds them again and again and says,
+"Yes, I understand
+you have tremendous appetite for risk.
+You dream big."
+So it's partly that in terms of...
+I think a lot of it is culture.
+I agree with you 100%.
+I have a speech trainer who's Israeli.
+His name is Michael.
+And he keeps telling me
+in the Israeli society,
+people celebrate failure,
+especially in the startups
+and the tech companies.
+I don't know how to get people
+to incorporate that.
+It's very interesting.
+I have bought 20 companies
+in the last seven years or so.
+For the most part, they've been startups.
+And I'd say more than 50% of them
+have been from Israel.
+But even there,
+there is a different risk trade-off
+post success.
+I can meet founders here,
+look them in the eye,
+and a founder will tell me,
+"Well, we're building
+a $100 million company."
+Without blinking.
+It's like a kid who dropped out
+two years ago.
+He's gonna build a $100 million company.
+Israel, they feel very lucky
+if they build a billion-dollar company.
+They're happy to sell it
+and say, "I'm out."
+This is an outcome I never expected.
+So, there's a lot of cultural stuff
+in there.
+There's a lot of
+cultural acceptance of failure.
+Cultural sort of role modelling.
+It's kind of--
+Maybe it's in the water here.
+People think if I go to Silicon Valley
+and drink the water,
+it's going to be a better outcome
+than if you drink the water
+in New Delhi or Gurgaon, right?
+So I think there's
+a whole host of factors.
+But I think capital is definitely,
+in today's world,
+especially where we are,
+capital is definitely a constraint.
+-Mm-hmm.
+-And also don't forget,
+there's pattern recognition, right?
+Name the last five $20 billion companies
+that came out of the Indian ecosystem...
+Yeah.
+...that have lived to tell the story.
+So, there's also that.
+Every time you turn around,
+it's gonna happen, it doesn't happen.
+People say, "Oh, my God,
+maybe there is more than ice
+that is visible to me
+that holds me back from doing it."
+Fair point.
+So, you went to IIT
+and then MS from Boston
+and MBA from Northeastern.
+The other way around, but same difference.
+That's a lot of studying.
+Not really.
+It's a lot easier to study in the U.S.
+than it is in India, so...
+You can study and work here
+at the same time.
+So it was study and work at the same time.
+No. I came here to go to business school
+at Northeastern.
+I wasn't smart enough
+to get into the IIMs in India.
+They were too competitive.
+-But you were at IIT.
+-I was.
+Possibly more competitive.
+Well, at that point in time,
+a lot less than it is today.
+But I think they have
+more of them right now.
+I was there with about six of them.
+And we were called ITB.
+We were not even IIT.
+We were not even a full-fledged IIT
+at that point in time.
+I did that.
+Couldn't get into business school
+in India.
+I didn't even try that hard.
+I think I left in the middle
+of the CAT exam.
+I went to watch a movie with my girlfriend
+at that point in time.
+So, maybe it was me.
+Came to the U.S.
+They said I have to teach
+computer science.
+I hadn't studied computer science.
+It was a slight problem.
+So I spent the summer brushing up
+on whatever I could learn.
+And I taught computer science
+at Northeastern.
+I went to business school there.
+It was '92 when I graduated.
+It was a recession.
+It was hard to get a job.
+I wrote 400 plus letters to people,
+applying for a job.
+Sometimes, the printer ran out of ink.
+I knew it was a rejection letter.
+But pretty much it said
+in the first sentence.
+But they forgot the signature part.
+So I had, like, 400. I still have them.
+I have 400 rejection letters in my life
+lying in my house.
+And one theme that was kind of persistent
+through all of them when I applied.
+You know how you have those yearbooks?
+My MBA yearbook said,
+"Most likely end up on Wall Street."
+My Wall Street rejection said,
+"Not into finance."
+It was a bit of a cognitive disconnect
+between my peers and the Street.
+And that's why I got
+a master's in finance from BC.
+I felt like I had to compensate for lack
+of finance.
+And I ended up getting a CFA as well
+at that point in time.
+Yeah. But that's what caused
+the back-to-back two degrees.
+And I was lucky enough to...
+In those days,
+I think systems weren't as robust.
+I had seven rejection letters
+from Fidelity
+before I got a job for the eighth person.
+So, thank God
+they weren't comparing notes.
+Does education hold the same value today?
+In today's world, would you spend
+as many years doing what you did?
+You know, the older we get,
+the more we value education
+and experience.
+The younger we are, the more irreverent
+we are of experience and education.
+-I think I agree--
+-Staying with the stereotype,
+I should value education
+and experience more.
+But I think the 23-year-old kid who I met
+who's building
+a 100-billion-dollar company
+will tell you that I'm full of shit
+and all my experiences are not.
+And he's got more risk appetite than I do.
+Outside of experiences,
+would you go back and do the education?
+If it took you eight years, ten years,
+how much ever time it did take?
+You know, for somebody who had never
+worked in the Western culture,
+who had never spent much time
+interacting with people here,
+I always say education
+is as much a social experience
+as it is a learning experience.
+The network that you built?
+No, not even the network.
+I mean, like, I have young kids, right?
+And I run into people in Silicon Valley
+especially where the debate is,
+"Oh, I'm homeschooling my kids
+because school is not smart enough
+to teach my kids."
+And you run into this all the time.
+People say, "I homeschool my kids."
+Now, of course, I don't know
+how you get through life as a parent.
+You have to arrange
+every sport, game, every...
+Like, literally, you are now
+the orchestrator of your child's schedule.
+But let's put that aside.
+They have this perception that,
+"My kid doesn't learn enough."
+But then the question I ask is,
+"When you go to school,
+there are ten kids in the class
+or 20 kids in the class.
+You learn social interaction.
+You learn competition.
+You learn not getting what you ask for
+on a constant basis.
+You learn not getting attention
+from people.
+You learn different personalities,
+how to interact with them."
+-That's a social experiment.
+-Yeah.
+Now, if you are gonna be so smart
+that you don't need people around you,
+yes, God bless you.
+And maybe that's a good thing
+for you to do.
+But I think 99.9% of us need people.
+So, to some degree,
+the collective learning experience
+is important.
+And it sets you up
+on how to live life around people.
+How to live life
+around different personalities.
+If you spend too much of your time
+over there, you become an academic.
+And all you do is learn
+how to prophesize and write papers.
+So, would I go back and do as much?
+Maybe. Maybe not.
+But at that point in time,
+that was a benchmark.
+If it were a social experiment,
+I would probably learn more
+or be better off with more diversity.
+So, rather than going
+to an affluent college
+where everybody is the similar,
+you know, they have either an IQ
+or some kind of other thing
+that has brought them there,
+would I be not better off
+just going to a park
+and playing with different kind of kids
+for eight hours a day?
+Sure. But if you had to make peace
+with the same people
+and see them every day for two years,
+it would be much nicer and much more
+different and much more managed.
+If you showed up at the park and said,
+"I don't like these kids,
+I'm not coming tomorrow,"
+and you play with different set of kids,
+you have no skin in the game.
+-Right.
+-Like, you know, in families.
+We love our families
+and we hate parts of our families,
+but we're stuck with them.
+That's why people
+drop out of free colleges
+more than they drop out of paid colleges.
+Didn't know that, but possibly true.
+Right.
+So, you transitioned to tech
+after Fidelity.
+That's a completely different career.
+Not quite. You know,
+we could say IIT was tech or is tech.
+When I've been to business school,
+I was teaching some version of tech.
+At Fidelity, actually, I worked in their
+technology department of finance
+the first five years I was there.
+So, still analysing tech, wrong tech.
+When I went to Putnam,
+I was analysing tech and telecom
+as a buy-side analyst.
+So I was always paying attention
+to business of tech,
+perhaps, is a better way to describe it.
+I was never spending time
+coding or writing code.
+If I did, maybe I'd have founded a company
+myself and got smarter, but no.
+I was always in on the business of tech.
+Right.
+That's actually a novelty,
+which is a new thing almost in society,
+where not founders of company,
+but executives--
+I think you're like
+the poster child of that,
+who have become extremely wealthy
+and billionaires and all that.
+You'll see a diff--
+Sorry, I'm trying to find
+where the slur is on that, but go on.
+[both laugh]
+So, these two parts
+of either founding a company
+or being an executive like yourself,
+I think there's a smaller crowd like you,
+which have done exceptionally well.
+How do you think
+those journeys are different
+and what kind of personality type
+is suited for which?
+That's an interesting question.
+Look, we live in Silicon Valley.
+So, there was a big debate,
+as you may remember,
+maybe 12, 14, 18 months ago.
+Brian Chesky sparked it off
+the founder board,
+where, somehow, founders were more...
+had a higher moral right to go run,
+build great businesses long-term
+and bigger ones than possibly executives.
+And I think, look, at the end of the day,
+eventually, a company
+is a combination of a product
+and a business around it.
+-Mm-hmm.
+-A product-only company is not a company.
+Eventually, somebody has to show up
+with the economics for that product
+to have been worthy of being invested in.
+We just had this conversation about AI.
+Five trillion dollars of services
+will be saved,
+hence it makes sense
+to invest in all this.
+Now, the question becomes, you know...
+horses for courses.
+What is the right time
+for a product-impassioned individual
+to go ahead and build
+the best product in the world,
+as long as they can get the right capital?
+Attracted to go build a product.
+At what point in time
+does that product need to be wrapped
+with the right application
+or business model
+l where it becomes a business
+that actually generates value
+for the buyer or the other side?
+Now, I think the answer
+is slightly different in...
+let's call them consumer businesses
+and enterprise businesses.
+In the consumer business,
+you can build a great product,
+you can create value,
+and you can find some basic fundamental
+economic mechanism,
+like charge a subscription
+or sell advertising against it.
+Those are a little easier.
+Advertising is harder than subscription.
+You are running Netflix.
+At the end, you pay $19.
+You don't pay $19.
+I'm gonna keep working the product.
+Eventually, you'll pay me $19, right?
+And I have to worry about each one of you
+because there's so many of you.
+If some leave, it's okay.
+There are many consumer businesses
+where you're fundamentally
+a product company
+with distribution and marketing, right?
+And then, over time,
+your moat becomes distribution.
+And your product sometimes
+doesn't stay as good,
+but you still own distribution, right?
+And there are examples of that
+in the world.
+But eventually,
+if you don't build a good product,
+even those companies begin to peter off.
+So, let's leave it there.
+In that case,
+it perhaps makes even more sense
+for a founder to persist
+where there is this constant need
+to product innovate
+because that drives the entire
+distribution and consumption
+of the product.
+In the case of enterprise,
+you see a different variation.
+And if you look at this example
+used of executives,
+I saw a recent article somewhere
+that talks about executives.
+I'd say 75% of those executives
+named there
+are actually enterprise CEOs.
+Not consumer CEOs, funnily enough.
+And the reason is because enterprise
+is a combination of a great product,
+building a business ecosystem around it,
+and making sure that you build
+an effective motion
+around delivering that innovation
+to various businesses,
+which is a combination
+and not just like...
+I met a founder the other day
+of an enterprise company.
+He said, "I love building a product."
+I hate going to customers
+and trying to explain to them
+why this is a great product.
+I lose patience because they don't
+understand why this is a great product.
+And then, eventually, I have to take them
+to dinner to get them to buy.
+And the founder doesn't like that.
+He wants to build a great product.
+A business executive
+says it's par for the course.
+I've got to do all of these things
+and about.
+So, look,
+I am as product-obsessed
+and petrified as they come.
+I'm constantly challenging myself,
+especially my biggest, as I said to you,
+one of my current fears is,
+what happens to AI?
+Does it make all of us obsolete
+in the way we run our businesses,
+the way we build our products,
+and the product we build?
+So, there's an existential crisis with AI
+around all those three dimensions
+for most companies in tech right now.
+So, then the question becomes,
+you know, and this goes past
+founder or executives
+to the notion of what kind of team
+does it take to win?
+Like, I tell my team,
+"You're the best at what you do,
+but I reserve the right to jump in
+and help you do what you do.
+My job is not to do what you do."
+I can't do everything my CFO does.
+I can't do everything
+my Chief Product Officer does.
+I can't do everything
+that my Chief Market Officer does.
+Like, you know, have I seen it?
+I've been around long enough.
+Have I seen it? Have I done it enough?
+Yes, I have.
+So, I can jump in and work with them
+on certain things, course correct,
+point to the right North Star and say,
+"We're all going there? Yes."
+So, then I just need to make sure
+that I'm paired,
+I've paired myself with a phenomenal set
+of technical people
+who are as product-savvy as they come.
+And, sometimes,
+you'll find great technical people,
+but they don't dream as big as founders.
+They're not bad technical people.
+They're equally smart.
+They just don't have the risk appetite.
+I can bring the risk appetite.
+So, I think part of winning--
+and I'm sure you see that
+in your business--
+part of winning is surrounding yourself
+with the right team.
+-Not just the best at what they do.
+-Right.
+But the right intermix of the people
+and personalities you need.
+And I think that's been
+one of the things that I've been
+particularly excited about
+having done in my life.
+Whether it was the team I built at Google,
+and the people that I worked with
+at the SoftBank,
+or people that built Palo Alto Networks.
+I think I found the formula
+where we can find the right set of people
+who complement each other
+and bring the right balance
+of conservatism, risk appetite,
+execution, and ideas and competence
+that allows us to at least try and aim
+for an above-average outcome.
+So, in a way, you're saying
+the mark of a great leader in enterprise
+is hiring the best lieutenants?
+Oh, I think you're oversimplifying it,
+but I won't take the bait.
+I think the mark of any winning leader
+is mobilising a set of very good people
+around them to create great outcomes.
+Right.
+And it doesn't have to be
+just the hiring part.
+Hiring is not enough.
+You've got to make sure that they perform.
+Hiring is just the beginning
+of the journey
+and you have to make sure
+you're constantly course-correcting
+and adapting and making that happen.
+And you have to keep your eye
+on the North Star.
+It kind of tends to move sometimes.
+The most vivid memory or recollection
+I have is...
+when you joined SoftBank,
+you were all over the news in India
+for your salary and stuff like that.
+And in Japan as well.
+And in Japan as well. How was that?
+How was that experience? How was Masa?
+How was working with him?
+How was it to be as popular as you were
+for your salary of all things?
+That's par for the course,
+but it's not what you aspire for.
+It's kind of...
+that's the way of keeping score.
+People keep score that way.
+That's the way of, you know...
+Do you still keep score that way?
+No. It's the way people keep score.
+And again,
+it's a tough question to answer.
+There's no good answer to that question.
+If you say I keep score that way,
+then it makes you sound materialistic.
+If you say I don't care,
+it makes you sound like you don't care.
+If you were to ask me,
+I would have said yes.
+That's how people keep score.
+Again, I think being well compensated
+is a good outcome.
+Yeah.
+You know, sometimes, it becomes
+more or less it's a different issue.
+We live in a capitalistic world
+and we all have voted for capitalism.
+[Nikesh] That's how people score.
+Although, we are constantly
+fighting the battle
+between democracy and capitalism
+which sometimes end up at odds,
+but that's a different concept.
+Can't a democracy have capitalism?
+I think we have democratically voted
+for capitalism.
+Not quite. I was with this
+very interesting business person
+who tried to run for public office
+and did not succeed.
+And I asked her, I said...
+"What is the biggest..."
+You asked the question
+about the biggest glaring memory or fact,
+"What is the biggest difference
+in how you lived your entire life
+until you were 50
+and then you tried for five years,
+how big of a difference?"
+She's like, you know,
+"I'd classify my first 50 years of my life
+as an attempt
+to pursue capitalistic outcomes.
+The next five years, democratic outcomes."
+And she said the biggest difference
+in capitalism
+is one dollar, one vote.
+Democracy is one person, one vote.
+Do you think
+it's one dollar, one vote today?
+-In capitalism.
+-Yeah.
+Your shareholders decide.
+My largest shareholder
+can dictate what I should do
+if my 100% shareholder
+can fully tell me what to do.
+In democracy,
+there's no one shareholder, right?
+There's no five shareholders,
+there's no five board members
+who have a higher weighted voice
+because they represent
+majority of the capital.
+What system do you think
+America of today adheres?
+Let's go back to the other conversation.
+I'm not a political commentator,
+so it's kind of like...
+unless I probably put my foot
+in my mouth, unnecessarily.
+So, after Google
+and after you joined SoftBank,
+how was it working with Masa?
+Just tell me, like,
+people that you've worked with
+like Larry Page, Masa,
+if there is one thing you've learnt
+from each of them.
+You know, it fits the way
+I think about people,
+because, very often,
+you get cliche questions
+-like, "Who's your role model?"
+-Yeah.
+Do you believe
+in the concept of role models?
+I believe in the concept
+of admiring people
+for something that they're really good at.
+And not admiring things
+for other things they're not good at.
+Yeah, but like, you know,
+our most interesting person
+in the world right now
+is possibly, you know, outside that...
+What is that guy?
+The Mexican guy who's the most
+interesting man in the world?
+Never mind, there is--
+You can go back and Google it.
+Today, the most
+interesting person in the world
+is possibly Elon Musk, right?
+Everybody knows about him,
+everybody wants to know about him.
+You can admire him for a lot of things,
+but, you know, do I wanna have 15 children
+with five different people
+or do I wanna be, you know, in politics?
+There are a lot of things
+that you can admire about Elon.
+There's something you may not want to be.
+So, I think modelling your entire life
+around one person
+-is a big ask.
+-Yeah.
+I think admiring people for what they do--
+When I turned 40,
+I made a conscious choice.
+I said, "From now on, when I meet people,
+I'm going to think about
+what they're really good at."
+Because, you know, getting to 40,
+I went back and thought, "You know what?
+We have a tendency
+of looking through a filter
+and saying,
+'Well, this person is not great
+because they're not great at X
+or they don't do X or Y well.'"
+And you realise
+that you actually have a mental frame
+of what made you succeed.
+And hence,
+people were more like your personality
+or did things like you
+or more respectable or liked by you.
+And then people who did it differently
+were not as interesting
+because, perhaps,
+they didn't have the right answer
+because they hadn't done it.
+But you can flip that lens and say,
+"You know what?
+Some people have succeeded
+in certain things in a way
+I would've never have imagined.
+There's something interesting.
+How do they do that?"
+And you look around, you know,
+you're blessed and I'm blessed.
+We always run into people
+who achieve something in life or about to.
+Your 12 founders,
+I'm sure are going to be great
+in ten years from now or some
+of the people you and I mutually know
+are probably great at what they do.
+So, in that context,
+you can look at people and say,
+"What do I admire about these people?"
+And you mentioned people at work.
+But look, I remember
+a conversation Larry recited to me
+when he'd just come back
+after meeting Steve Jobs.
+I never met him, but Larry did.
+And Steve recalled Larry and said,
+"You know what?"
+In that time, Google was a small company
+and Apple was still a big company.
+And Steve said to Larry,
+"Larry, look at the model.
+The model is,
+we do one thing, we do it really well.
+If you do one thing really well
+and win around the world,
+you're gonna win."
+And here was Larry, you know,
+busy doing Gmail, Chrome,
+Google Search, Maps, Local,
+a whole bunch of stuff.
+And Larry had a different point of view.
+He said, "Look, I don't believe that.
+I believe it's a question of capacity.
+If you have great people,
+you can motivate them.
+They can go build great stuff.
+As long as you focus
+on building a great product,
+it doesn't matter if you do one or many."
+So, Larry was product-obsessed.
+In fact, you know, much to my annoyance,
+perhaps at that point in time,
+but I see the wisdom in his ways.
+When he became CEO of Google, he said,
+"I'm gonna have ten direct reports.
+There's gonna be one CFO, one lawyer,
+and one business person.
+And seven product people."
+He said, "Nikesh, you can do
+all the business stuff."
+And I was so proud.
+I went to my first one-on-one with Larry
+and said,
+"Okay, Larry, let me shoot that."
+And I had this beautiful presentation
+ready to walk him through
+how you manage the 30,000 people.
+And he looked at me and he says,
+"Bill Campbell tells me you're decent
+or good at what you do.
+I have to go build great products
+in the company,
+so you keep doing what you're doing.
+I'm sure if I had a few hours,
+I could help you do your job 20% better."
+I said, "Larry, let me know
+when you have two hours."
+And I left.
+And he never found the two hours for me
+because he was busy fixing product.
+He was product-obsessed.
+But I learnt from him that--
+And he seems to say that, like,
+tech companies which lose sight
+of great products eventually fail.
+So, and you look around you,
+that is true in technology.
+Companies like Sun Microsystems, Yahoo,
+all these companies are great
+tech companies in their heyday.
+And eventually,
+they lost sight of product,
+and eventually, they didn't succeed.
+Then take Masa, you know.
+I say, as we grow up, we spend our life,
+perhaps more so in India--
+We talk about cultural things, right?
+We spend our life de-risking our children.
+Explain.
+The kid is born,
+you want to drop him off at school.
+You say, "Hold my hand."
+Every time you cross the road,
+you look left, you look right.
+"Don't eat that. Don't touch that.
+That's dirty."
+Right?
+"Don't put that in your mouth."
+How many times...
+have your parents or my parents
+admonished us
+as a mechanism of showing their love
+and trying to teach us the way of life
+and constantly allowing...
+Sort of taking from their mental model
+what was risky,
+what could have some consequence,
+and trying not to have their kids do that.
+Right? And do that in life.
+Of course, our favourite Indian pastor
+was like, "It's time. you got old.
+It's time for you to get married
+and settle down, right?"
+-Because we're deemed unsettled.
+-Yeah.
+And possibly prone to high risk
+if you're not married.
+So that whole sort of cultural philosophy
+is to settle your kids,
+make sure they have
+a stable job, stable life, kids,
+and they're fully settled.
+That's the best risk manager in the world.
+It's your mother.
+-Mm-hmm.
+-Right?
+And here we're sitting and talking
+about taking more risk,
+dreaming bigger,
+and building great things.
+So, that is a frame of reference.
+Masa was the kid.
+You know, he turned 50
+when I started working with him.
+And I'd say between the age of 50 to 60,
+he was sort of Benjamin Button.
+He was going, touching everything
+his mother said don't touch.
+And he was eating,
+putting everything in his mouth
+and being more and more risky
+and dreaming bigger
+than anyone else I've known in my life.
+Forget any entrepreneur.
+Every entrepreneur was trying to take risk
+to build a stable business and get rich.
+Masa's the other way around.
+"What are we going to do today?
+Great. All in."
+[laughs]
+"What are we going to do tomorrow?
+I'm all in."
+Masa has a phenomenal risk appetite.
+And if you look at it,
+that's the way he's led his life.
+And funnily enough,
+he struck it four times.
+You know, he built SoftBank from nothing.
+He built Yahoo! Japan.
+He built... He invested in Alibaba.
+He did Arm.
+All these things that worked for him.
+And by the way, he had a risk appetite
+because his volatility is high.
+He was the richest man in the world
+for a few days,
+and then he was almost bankrupt
+at one point in time.
+So you learn that, you know,
+risk appetite is actually
+something we govern.
+But it is significantly
+influenced culturally.
+Seems like a good way to live.
+If we have one life
+and life is meant to be experienced.
+Masa's way.
+Yes. I think that's true.
+And you and I have the luxury
+to be able to say that.
+It doesn't work well
+with Maslow's hierarchy.
+Explain.
+Well, Maslow's hierarchy suggests that--
+You know what it is.
+And like, you know, when you find a person
+who has no food and no money
+and has to feed his family,
+he's not worried about taking
+more risk and living one life.
+He's looking to create that stability.
+So, the risk appetite can change
+when you reach the aspiration state
+of your life.
+The point is, he recognised...
+Do you think AI changes that?
+More people move higher up
+the order in the hierarchy?
+You're moving questions too fast.
+I wasn't done with the last one
+thinking through that one.
+But do I think
+AI changes our risk appetite?
+I don't think anything changes
+Maslow's hierarchy.
+In fact, I think there is a risk
+in the short term
+that AI creates more fear
+around Maslow's hierarchy than not.
+Because?
+Look, if you read everything out there,
+if you see the signs,
+it seems like, you know,
+repetitive tasks are gonna get
+easily overtaken by AI.
+And that's gonna be
+its contribution to society
+in the next two to three years,
+which directly targets
+the early-in-career part of people's lives
+and the part
+where they're trying to go pay
+their college loans in this country
+or where they're trying to settle down
+and get some of their basic needs met.
+So, the question is,
+if I can't get out of college with a loan
+and find a job that I'm going
+to be adding value on,
+then that probably impacts
+my Maslow's hierarchy
+more than it impacts my risk appetite.
+Hmm.
+But if there is no social mobility
+really in the world
+and rich people stay rich people
+and they stay higher up
+in Maslow's hierarchy,
+do you think, generationally,
+people become more risk-averse
+or they're able to take risk more easily?
+Like your kids or the kids of your kids
+would be freer in taking risk?
+You know, it's kind of a very interesting
+social experiment here.
+I think you can talk about predisposition,
+but not personality.
+What I mean by that is...
+Because your kids and my kids
+are going to grow up
+in a slightly different circumstance
+than perhaps you and I grew up with,
+they're gonna have
+different predispositions.
+When I grew up, my father didn't have
+a car until I was 18.
+We ate meat once a week.
+-Because that was the norm.
+-Same.
+So, that's a different cultural upbringing
+than my kids.
+My kids don't have those constraints.
+They don't live with scarcity.
+But the question is, it's very hard,
+and you should ask a sociologist
+this question as opposed to me,
+but it's very hard to take that
+and ascertain where the drive comes from.
+I've seen very well-to-do kids
+who have tremendous drive,
+who want to prove something.
+I've seen very poor kids with no drive.
+So, there seems to be
+a difference of gene in you
+which defines how you drive yourself
+and how you think about ambition
+and proving yourself.
+I'm sure the upbringing,
+the factors around you have a role
+in finally defining what your passion is
+and where you go to prove yourself.
+But I still feel
+that there's an inner drive
+that comes from
+something different for people
+which is somewhat not 100%
+correlated to upbringing.
+I have siblings. You have siblings?
+We're very different people.
+Our parents are the same.
+We grew up in the same house.
+We grew up with the same value system.
+We ended up with very different outcomes
+and very different motivations
+and very different ways
+of living our life.
+-I don't know why that is.
+-So, nature versus nurture.
+Remember, nurture is the same.
+You can argue
+majority of the DNA is the same.
+Maybe one gene is more dominant
+than the other in certain cases.
+So, it's minor modifications.
+Right. Any fleeting thought, Nikesh?
+I must say,
+this is one of my favourite podcasts ever.
+You must not have done many then.
+I've loved this conversation.
+But any fleeting thought
+that you wanna, like, leave behind?
+I'll let you ask the question.
+It's too generic a comment.
+We can talk about anything you want.
+Okay. Since you've given me
+that privilege,
+I give you $100.
+And I let you either go long or go short
+one sector for the next decade.
+Long one first.
+Look, by definition,
+technology is lifelong long, right?
+If you look historically,
+35% of the S&P
+is made of technology companies.
+Thirty years ago, it was none, right?
+So, by definition, what has happened is,
+technology has taken over
+the majority of sectors in life.
+And there's a possibility
+that it will continue to take over
+the majority of sectors in life.
+I'm sure this is gonna
+come bite me in the future.
+But on the short side,
+services has to be assured.
+Yeah.
+By definition, the whole idea of services
+is that we deploy humans
+towards repetitive tasks
+where we sell intelligence
+or process with people.
+If the impending opportunity
+in front of us,
+is that process is gonna be simplified
+or overtaken by AI,
+and intelligence is gonna be democratised,
+then there has to be
+a reshaping of the services economy.
+Makes sense.
+But thank you so much
+for taking the time and doing this.
+-My pleasure.
+-And hope to see you again soon.
+-Thank you.
+-Thank you.
+Cheers.
+Bilal, you make sure
+every time you make me do that,
+you just look it the wrong way.
+-[Bilal] Yeah.
+-Thanks. Nice to see you, man.
+-Was that fun?
+-It was fun, yeah.
