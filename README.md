@@ -1,4 +1,4 @@
-# 🔤 BPE Tokeniser
+# 🔤 tewtoken
 
 A **Byte Pair Encoding (BPE) tokeniser built from scratch in pure Python** — no HuggingFace, no PyTorch, no magic. Trained on real YouTube transcripts in **English + Hindi**, making it one of the few open-source bilingual BPE tokenisers built entirely from the ground up.
 
@@ -29,13 +29,13 @@ A **Byte Pair Encoding (BPE) tokeniser built from scratch in pure Python** — n
 
 **Option 1 — Install directly from GitHub (recommended):**
 ```bash
-pip install git+https://github.com/yourusername/tokeniser-project.git
+pip install git+https://github.com/tusharinqueue/tewtoken.git
 ```
 
 **Option 2 — Clone and use locally:**
 ```bash
-git clone https://github.com/yourusername/tokeniser-project.git
-cd tewtoken-project
+git clone https://github.com/tusharinqueue/tewtoken.git
+cd tewtoken
 ```
 
 ---
@@ -122,13 +122,13 @@ After 8,000 merges, common words become single tokens and rare words are split i
 ## 📁 Project Structure
 
 ```
-tokeniser-project/
+tewtoken/
 ├── data/
 │   ├── raw/              ← raw YouTube transcripts (.txt)
 │   ├── corpus.txt        ← cleaned + merged training corpus
 │   ├── vocab.json        ← learned vocabulary {token: id}
 │   └── merges.txt        ← 8,000 BPE merge rules
-├── tokeniser/
+├── tewtoken/
 │   ├── __init__.py       ← package exports
 │   ├── train.py          ← cleans + builds corpus
 │   ├── vocab.py          ← character vocab + word frequencies
