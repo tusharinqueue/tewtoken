@@ -128,13 +128,13 @@ id_to_token = {idx: token for token, idx in token_to_id.items()}
 print(f"\nFinal vocab size: {len(token_to_id)}")
 
 #Save vocab ────────────────────────────────────────────
-with open(r"F:\RandomProjects\tewtoken\data\vocab.json", "w", encoding="utf-8") as f:
+with open(r"/tewtoken/vocab.json", "w", encoding="utf-8") as f:
     json.dump(token_to_id, f, ensure_ascii=False, indent=2)
 
 print("Saved vocab.json")
 
 #Save merges ───────────────────────────────────────────
-with open(r"F:\RandomProjects\tewtoken\data\merges.txt", "w", encoding="utf-8") as f:
+with open(r"/tewtoken/merges.txt", "w", encoding="utf-8") as f:
     for pair in merges:
         f.write(f"{pair[0]} {pair[1]}\n")
 

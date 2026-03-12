@@ -3,9 +3,9 @@ import re
 import os
 
 # ── 1. Dynamic paths ─────────────────────────────────────────
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-VOCAB_PATH = os.path.join(BASE_DIR, "data", "vocab.json")
-MERGES_PATH = os.path.join(BASE_DIR, "data", "merges.txt")
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+VOCAB_PATH = os.path.join(BASE_DIR, "vocab.json")
+MERGES_PATH = os.path.join(BASE_DIR, "merges.txt")
 
 # ── 2. Load vocab and merges ─────────────────────────────────
 with open(VOCAB_PATH, "r", encoding="utf-8") as f:

@@ -7,10 +7,7 @@ setup(
     description="A bilingual BPE tokenizer trained on English + Hindi transcripts",
     packages=find_packages(),
     package_data={
-        "tokenizer": [
-            "../data/vocab.json",
-            "../data/merges.txt",
-        ]
+        "tewtoken": ["vocab.json", "merges.txt"]  # ← updated path
     },
     python_requires=">=3.7",
 )
